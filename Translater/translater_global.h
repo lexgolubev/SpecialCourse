@@ -1,0 +1,12 @@
+#ifndef TRANSLATER_GLOBAL_H
+#define TRANSLATER_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(TRANSLATER_LIBRARY)
+#  define TRANSLATERSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define TRANSLATERSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // TRANSLATER_GLOBAL_H

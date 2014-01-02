@@ -1,0 +1,6550 @@
+аббревиатура abbreviation
+абзац paragraph rubric indention centered line
+абзацныйотступ indentation paragraph break
+абонентсети network abonent user node
+абсолютно absolutely
+абсолютный absolute
+абстрактный abstract
+абстрактныйкод abstract code
+абсцисса abscissa
+аварийный abnormal rescue breakdown
+авария fault crash breakdown
+автобаланс autobalance
+автовызов automatic calling automatic call
+автовыравнивание autoalignment
+автодекрементный autodecrementing
+автодекрементныйспособадресации autodecrementing addressing mode
+автозагрузка autodump autoload
+автозахват autojoin
+автоиндексация auto-indexing
+автоинкрементный autoincremental
+автоинкрементныйспособадресации autoincremental addressing mode
+автоисправление autocorrect
+автокодер autocoder
+автокоррекция automatic error correction
+автомат automation
+автоматизация automation robotization
+автоматизированный automated
+автоматизировать automate robotize make automatic
+автоматическаявычислительнаямашина automatic computer automatic computing engine
+автоматическаяпереадресация automatic call diversion automatic re-dial
+автоматически automatically
+автоматический automatic
+автонастройка auto-adjustment
+автономноеоборудование off-line equipment
+автономный autonomy autonomous offline off-line
+автоответчик autoresponder autoreply mailbot e-mailbot
+автопрокрутка autoscroll
+автор author
+авторазметка autolayout
+авторестарт autorestart
+авторизация authorization
+авторизованный authorized
+авторинг authoring
+авторскаясистема authoring system
+авторский authoring author
+авторство authorship
+авторфайла file owner
+автосохранение autosave
+автотрассировка autotrace tracking
+автоупорядочение autoarrange
+агент agent
+адаптация adaptation
+адаптер adapter
+адаптивность adaptivity
+aдаптивный adaptive
+адаптировать adapt
+адаптируемый adaptable
+адекватность adequacy
+адекватный adequate
+административный managerial
+администратор administrator admin manager
+администраторбазыданных database administrator
+администраторданных data administrator
+админстраторфайлов file manager
+администрирование administering
+администрирующий administering
+адрес address
+адресат addressee target
+адресация addressing
+адресдоступа access address address area
+адресвызова call address
+адресканала channel address
+адресноеполе address field
+адресный address target
+адресобращения call address
+адресовать address
+адресоперанда sourse address
+адреспамяти memory address
+адресузла node address
+адресуемаяпамять addressable memory
+адресуемаяточка addressable point
+адресуемый addressable
+акварель watercolor
+аккумулятор accumulator
+аккуратно punctually
+аккуратность punctuality
+аккуратный careful punctual exact
+акроним acronym
+акселератор accelerator
+аксессуар accessory
+аксиома axiom
+активация activation
+активизация activation stirring up
+активизацияфайла file activation
+активизировать activate invoke stir up
+активность activity
+активный active
+актуализация updating
+актуальный urgent topical
+акустический acoustic
+акцептор acceptor
+алгебра algebra
+алгебраическая ЭВМ algebraic computer
+алгебраический algebraic
+алгоритм algorithm routine algorism
+алгоритмический algorithmic
+алфавит alphabet
+алфавитный alphabetic
+альбомныйспуск landscape landscape orientation
+альтернатива alternative
+альтернативнаятехнология altrenative technology
+альтернативный alternate
+амперсанд ampersand
+амплитуда amplitude
+амплитудный amplitude
+анализ analysis analyzing
+анализатор analyzer
+анализирование analyzing
+анализировать analyze
+анализирующий analyzing
+анализструктурыкаталога analyzing directory structure
+анализфайла file analysis
+аналитик analyst
+аналитический analytic
+аналог analog
+аналогичный similar parallel analogous
+аналогия comparision parallel analogy
+аналоговая ЭВМ analog computer
+аналоговый analog
+анимация animation
+анимационный animation
+анимированный animated
+анкета questionnaire form
+аннотация annotation
+аннотировать annotate footnote
+аннулирование rescission undoing
+аннулировать cancel disannul null nullify erase
+аннулирующий rescissory
+аномалия anomaly
+аномальный anomalous
+анонимность anonymity
+анонимный anonymous
+анонимныйпротоколпересылкифайлов anonymous file transfer protocol
+антенна antenna
+антибликовый anti-glare antiglare
+антивирус antivirus
+антивирусный antiviral antivirus
+антидискретизация anti-aliasing
+антиква white letter
+антиотражающий anti-reflection
+антистатический antistatic
+АОС automated training system
+апгрейд upgrade
+аплет applet
+апостроф apostrophe
+аппарат device unit
+аппаратный hardwired hardwared hard
+аппаратура hardware
+аппаратурауправлениядоступом access control equipment
+аппликация clip art
+аппроксимация approximation
+аргумент argument
+аргументация reasoning arguments argumentation
+аргументированный reasoned
+агрументировать reason argue prove
+арифметика arithmetic
+арифметический arithmetic
+арксинус arc sine
+архив archive files
+архиватор archivator
+архивирование archivation archiving
+архивировать archive
+архивный archive archival archiving
+архивныйатрибут archive attribute
+архитектура architecture
+архитектуравычислительнойсистемы computer system architecture
+архитектурный architectural
+асимметричный asymmetric skew
+асимметричнаяцифроваяабонентскаялиния asymmetric digital subscriber line
+асимметрия asymmetry
+асинхроннаялиниязадержки asynchronous delay line
+connection asynchronous transmission
+асинхроннаяЭВМ asynchronous computer
+асинхронный asynchronous non-synchronous
+асинхронныйбалансныйрежим asynchronous balanced mode
+aсинхронныйкоммуникационныйинтерфейс asynchronous communication device interface
+асинхронныйкоммуникационныйсервер asynchronous communication server
+асинхронныйсвязнойинтерфейс asynchronous communication interface
+аспект aspect facet
+аспектпроектногорешения facet of design
+ассемблирование assemble
+ассемблировать assemble
+ассистент helper assistant
+ассоциативнаяадресация associate addressing
+ассоциативнаяпамять associative memory content addressable memory data addressed memory
+ассоциативноезапоминающееустройство content addressable memory content-addressed storage
+ассоциативноеОЗУ content-addressable RAM
+ассоциативный associative
+ассоциативныйпараллельныйпроцессор associative parallel processor
+ассоциативныйсписок associate list
+астериск asterisk
+асцендер ascender
+aтака assault attack
+атаковать attack
+атрибут attribute
+атрибутзакрашивания fill-area attribute
+атрибутсимвола character attribute
+атрибутфайла file attribute
+атрибутэлементаданных data attribute
+аудио audio
+аудиовизуальный audiovisual
+аудиоданные audio data
+аудиосигнал aidio sinal
+аудиофайл audio file wave file
+аудитория audience
+аутентификация authentification
+афиша poster
+аэрограф airbrush
+база base
+базис basis foundation base
+базисный basic primitive
+базовый base basic underlying backbone kernel
+базовыйадреспамяти base memory address
+базовыйдисплей basic display unit
+базовыйлогическийэлемент basic logic
+базовыйрегистр base register
+базовыйязык kernel language
+байт byte
+байтданных data byte
+байтидентификации identification byte
+байтоваякоманда byte instruction bute command
+байтовый byte byte-oriented
+баланс balance
+балансировать balance
+балансный balance balanced
+балансныйрежим balanced mode
+банк bank
+баннернаяреклама banner advertising
+баннерный banner
+барабан drum
+барабанный drum
+барьер barrier fence
+башня tower
+бегунок slider scroll box
+безадресный zero-address
+безвыходный hopeless uninterrupted
+безграмотный illiterate
+безграничный boundless infinite
+бездарный untalented bletcherous
+бездейственный inactive
+бездействие inertia idleness inaction
+бездействовать be idle be inactive stand idle
+бездоказательный unsubstantiated
+безмодемный null modem null-modem
+безнадежный hopeless
+безопасность safe security
+безопасный safe security
+безосновательный groundless
+безостановочный unceasing non-stop
+безотказный trouble-free
+безотлагательно immediately
+безотлагательный immediate urgent
+безошибочно faultlessly
+безошибочноерешение inerrable dicision
+безошибочность faultlessness inerrancy
+безошибочный error-free unerring faultless inerrable correct
+безошибочныйпротокол error-free protocol
+безрезультатно without result
+безрезультатный effectless ineffective
+безусловнаяпередачауправления unconditional branch
+безусловно unconditionally
+безусловный unconditional absolute
+безусловныйпереход unconditional branch
+безуспешный unsuccessful
+безымянный nameless anonymous
+бектрекинг backtracking
+белый white
+белыйореол white matte
+беседа conversation talk
+беседовать talk
+бесконечно endlessly
+бесконечность infinity
+бесконечный endless infinite
+бесконечныйцикл endless loop infinite loop
+бесполезный purposeless helpless
+беспорядок disarrangement disorganization disorder
+беспроводный wireless cordless
+бессистемность nonsystem
+бессистемный methodless
+бессодержательный matterless
+бесцельный purposeless
+бесчисленный innumerable
+библиографический bibliographical
+библиотека library
+библиотекаподпрограмм subroutine library
+библиотекапользователя personal library private library
+библиотекарь librarian
+биквадратный quartic
+бимодальный bimodal
+бимодуль bimodule
+бинарный binary binary convolution code
+бинарныйфайл binary file
+бином binom
+биномиальный binomial
+биполярный bipolar
+бит bit
+битархива archive bit
+битданных data bit
+битдополнительныхданных M-bit
+битоваяглубинацвета bit depth color depth
+битоваякарта bitmap bit map pixel map
+битовый bit
+битовыймассив bitmap bit map pixel map pixel image
+битовыйрастр bitmap bit map pixel map pixel image
+благоприятный favourable
+бланк blank form
+ближайший nearest
+близко near
+блик lens flare light spot
+блок block
+блоквывода output block
+блокданных data block
+блокдоступа access unit
+блокзагрузки/хранения load/store unit
+блокинтерфейсашины bus interface unit
+блокклеток cell block
+блокконтроляпечати print control unit
+блокметки label block
+блокобменаданными data exchanged unit
+блокобработкипереходов branch processing unit
+блокоптическогообхода optical bypass switch
+блокпереключателей jumper block switch block
+блокуправления control block
+блокуправленияадресом address control unit
+блокуправлениязадачей task control block
+блокуправленияматрицей array control unit
+блокуправленияпамятью memory control block
+блокирование blocking interlock
+блокированиефайла file locking
+блокированный blocked
+блокировать block interlock disable
+блокировка lock locking lockout
+блокировкаданных data interlock
+блокировкадисплея display hold
+блокировказаписи record lockout
+блокировкаклавиши key locking
+блокирующий blocking
+блокнот notepad
+блокнотнаяпамять scratch-pad memory
+блокнотныйкомпьютер hand-held PC
+блочнаяструктурапрограммы program block structure
+блочный block unitized plugable
+бод baud
+боковик side notes
+боковой side lateral
+болтать chat
+большаябуква capital letter
+больше bigger larger greater great than
+большой big large great
+бонус bonus
+брандмауэр firewall
+браузер browser
+буква letter
+буквенный alphabetic
+буквица drop cap drop ital drop letter
+буксировка drag and drop drag-drop drag dragging
+буксировать drag
+буксовать glitch
+булев boolean Boolean
+буллит bullet
+бумага paper
+буфер buffer
+буферизация buffering
+буферизировать spool
+буферный buffer spool
+буферныйадрес address buffer buffer address
+буферныймодуль buffer module
+буферныйпроцессор front-end processor
+буферныйрегистр buffer register
+буферныйрегистрадреса buffer address register
+буферныйрежимработы floating
+буферныйсчетчикадреса buffer address counter
+быстрее faster quicker
+быстро fast quickly rapidly
+быстродействие speed performance
+быстродействиеЭВМ computer speed computer performance
+быстродействующий quick high performance quick-operating
+быстродействующийпреобразователь flash converter
+быстрота quiсkness rapidity speed
+быстрый express fast quick hurried
+бюджет account
+бюллетень newsletter
+важный important meaningful
+вакуумноенапыление vacuum evaporation
+вакуумный vacuum
+валик paint roller
+вариант alternative option variant version
+вариантный alternative
+вариация variation
+варьировать vary
+варьируемаявеличина variate
+введение entry introduction preamble fade-in
+введенный entered
+вверх up
+вверху above overhead
+ввестисм.
+ввод enter entering input insertion
+вводграфическихданных graphic input
+вводданных data input data entry
+ввод/вывод input-output input/output
+вводданных data in data input
+вводзаданий job entry
+вводить input data in enter introduct
+вводный input introductory
+вгонка get-in take-in
+вдова widow
+ведение maintenance
+ведомый led slave
+ведущий leading
+вектор vector
+векторпрерываний interrupt vector
+векторнаяграфика vector graphics object-oriented graphics
+векторнаякоманда vector instruction
+векторноеуправление vector control
+векторный vector vectorial
+векторныйшрифт vector font
+величина magnitude value quantity
+верификация verification
+верно correctly
+верный right correct accurate faithful
+вероятно probably
+вероятность probability possibility
+вероятностьошибки probability of error
+вероятностьпрерываниядоступа access outrage probability
+вероятный probable possible
+версия version
+верстальныйдисплей make-up display
+верстка layout makeup
+вертеть spin turn
+вертикаль vertical
+вертикально vertically
+вертикальный vertical tall
+верхнееполе down from page top upper margin
+верхний upper
+верхний high upper overhead superior
+верхнийколонтитул header running head
+верхняяграница high bound
+верхняяобластьпамяти high memory high memory area upper memory
+верхняяпамять high memory upper memory
+верчение spin
+вершина cusp top peak node
+вес weight
+весь entire
+ветвление branch fork
+ветвлениепрограммы branching
+ветвь branch path
+ветвьалгоритма algorithm branch
+ветвьпрограммы program branch
+ветвьресурса resource fork
+вешать hang
+вещественный real
+взаимность reciprocity
+взаимный mutial reciprocal
+взаимодействие interaction cooperation
+взаимодействовать interact cooperate
+взаимозаменяемость interchangeability
+взаимозаменяемый exchangeable interchangeable permutable replaceable
+взаимоисключающий alternative
+взаимосвязанный interconnected
+взлом hack
+взломаннаяпрограмма crack
+взломанный cracked hacked
+взлом cracking
+взломать crack hack efforce
+взломщик hacker cracker
+взрывать explode
+вибрация effect flutter
+вид look outlook view viewing
+видео video
+видеоадаптер video adapter
+видеоакселератор video accelerator
+видеобластер video blaster videoblaster
+видеография videography
+видеоданные video data
+видеодиск videodisk
+видеодисплей video display
+видеозапись video record
+видеоигра video game arcade game
+видеоизображение video image
+видеоинформация video information video data
+видеокадр frame
+видеокарта graphic adapter card video card
+видеокамера video camera
+видеокассета video cassette
+видеоконтроллер video controller
+видеокурсорный video cursor
+видеомагнитофон video cassette recorder
+видеоматрица video array
+видеопамять video memory video storage
+видеопроцессор video processor
+видеорежим video mode
+видеосистема video system
+видеотекст videotext
+видеотерминал video terminal video display terminal
+видеотехника video
+видеоустройство video device
+видеть see
+видимо evidently
+видимость visibility appearance scope
+видимый viewable visible
+видный visible
+видоизменение modification alteration
+визуализация visualization viewing rendering
+визуальный visual
+вилкообразный Y-shaped
+винчестерскийдиск Winchester disk hard disk
+виртуальнаялокальнаясеть virtual local area network
+виртуальнаямашина virtual machine
+виртуальнаяпамять virtual memory virtual storage
+виртуальнаяреальность virtual reality
+виртуальнаяфункция virtual function
+виртуальнаяцепь virtual circuit
+виртуальноеизображение virtual image
+виртуальноесоединение virtual connection virtual call
+виртуальноеустройство virtual device
+виртуальный virtual
+виртуальныйадрес virtual address
+виртуальныйвызов virtual call
+виртуальныйдиск virtual disk
+виртуальныйинтерфейс virtual interface
+виртуальныйисточник virtual source
+виртуальныйканал virtual circuit virtual channel
+канал permannet virtual circuit
+вирутальныйметод virtual method
+виртуальныймир virtual world
+виртуальныйпроцессор virtual processor
+виртуальныйфайл virtual file
+вирус virus
+висячаястрока orphan widow false line
+висячийотступ hanging indent
+витаяпара twisted pair
+витрина showcase
+вкладка page inset
+вклиниваться break in
+включенный included
+включаемый in-line
+включающий enclousing
+включение switching-on enabling insertion
+включенный enabled
+включитьсм.
+владелец owner
+владелецфайла file owner
+влево left to the left
+влияние influence
+влиять affect influence effect
+вложение attachment nest nesting
+вложеннаязадача nested task
+вложенноеменю submenu
+вложенныециклы embedded loops
+вложенный nested embedded
+вложенныйотступ nested indent
+вложенныйфайл attached file attachment
+вложенныйцикл nested loop internal cycle
+вместимость capacity
+вместо instead of
+вмещать contain hold
+вмещаться go in
+вмещающий container
+вне outside extra
+внедрение embedding
+внедренный embedded
+внедренныйобъект embedded object
+внезапно suddenly
+внезапный sudden
+внеочередной out of turn extraordinary
+внережимноеокно modeless window
+внережимный modeless
+внешне outwardly
+внешнеезапоминающееустройство backing storage external storage external memory peripheral storage
+внешнеепредставлениеданных external data representation
+внешнеепрерывание external interrupt
+внешнееуправление out-of band management
+внешнееустройство external device external unit out device peripheral device
+внешний external exterior outer outlying outside peripheral
+внешнийвид face exterior
+внешнийжесткийдиск external hard drive
+внешнийинтерфейс front-end
+внешнийканал apply image
+внешнийконтроль external control
+внешнийфайл external file
+внешняяпамять backing storage external memory auxiliary memory peripheral storage
+внешнийрегистр external register
+внешняяподпрограмма linked subroutine
+внешняяссылка external reference
+внешняясторона exteriority
+внешняяшинаданных external data bus
+вниз down
+внизу at the foot of
+внимание attention
+внимательно attentively
+вновь newly anew again
+внутреннееполе inside margin
+внутреннеепрерывание internal interrupt
+внутренний internal inner inside back end back-end domestic
+внутреннийдинамик internal speaker
+внутренниймост internal bridge
+внутреннийцикл inner loop
+внутреннийязык internal language
+внутренняязапятая embedded comma
+внутренняяошибка internal error
+внутренняяпамять internal memory
+внутренняяполоса inside margin
+внутренняяцифроваяшина domestic digital bus
+внутри inside
+внутрисетевой intranet
+внутрь inside
+возврат back return backspace starve
+возвратный return back
+возвращаемый returnable
+возвращать return
+возвращение re-entry reentry return revert
+возвращенный returned
+воздействие effect influence
+воздействовать influence affect
+возможно possibly
+возможность opportunity possibility option ability
+возможный possible probable
+возникновение rise beginning
+возобновление continuation restart renewal
+возобновленный renewed
+возрастание increase growth increment
+возрастающий ascending increasing
+возросший increased
+вокмен Walkman personal stereo
+вокруг round around
+вокодер VOCODER
+волна wave
+волновой wave
+волновойзвук wave sound
+вопрос inquiry question problem
+вопросительный questionary questioning interrogative
+вопросительныйзнак interrogative mark interrogatory question mark
+воронка cratered error
+восполняющий expletive
+воспользоваться use
+воспрепятствовать hinder prevent
+воспроизведение playback rendering
+воспроизводимость reproducibility
+воспроизводимый replicable reproductible
+воспроизводитель reproducer
+воспроизводящий reproducing
+восстановление reconstruction recovery
+восстанавливающий restoring
+восстановление restore restoring restoration restoring recovery regeneration expand
+восходящий ascending
+восьмеричный octal octonary octuple
+восьмигранник octahedron
+восьмиугольник octagon
+восьмиугольный octagonal
+вперед forward
+впереди in front of
+вписывать fill in
+вправо to the right
+вращать revolve turn rotate
+вращаться revolve rotate spin
+вращающий spinning revolving
+вращающиймомент torque
+вращение rotation revolving spinning
+вред damage
+вредный destructive
+врезанный dropped
+временно temporarily provisionally
+временноемультиплексирование time division multiplexing
+временной time
+временный temporary temporal provisional
+временныйфайл temporary file scratch file
+время time hourage
+времябезотказнойработы uptime
+времявыборкиизпамятиЭВМ access time fetch time
+времявычисления calculating time
+времядоступа access time
+времякомпиляции compilation time compiling time compile time
+времяпоиска seek time
+времяпрогона running time executive time
+времяпростоя downtime idle time
+времяреакции response time
+всегда always
+всего in all only
+всеобщий global general universal
+всплывающееменю pop-up menu floating popup menu
+вспомогательный accessorial aid assistant auxiliary satellitic satellite utility
+вспомогательныйпроцессор attached support processor satellit processor
+вспомогательныйуказатель auxiliary index
+вспыхивать flash
+вспышка flash
+вставка paste pasting paste-up intercalation interpolation insert insertion
+вставкабит zero insertion
+вставканулей zero insertion
+вставленный cut-in incut nested
+вставной expletive cut-in
+встраивание embedding
+встраивающий embedding
+встроеннаяфункция build-in function
+встроеннаяЭВМ build-in computer
+встроенный internal built-in in-line embedded
+встроенныйкомпьютер embedded computer
+встроенныйконтроль build-in check in-line check
+встроенныймодем internal modem
+встроенныйтип build-in type
+встроенныйшрифт built-in font internal font
+вступление preamble introduction entry joining
+вторгаться intrude
+вторичноеокно secondary window
+вторичный secondary
+вторичныйдиск secondary disk
+вторичныйключ secondary key
+второстепенный minor secondary satellitic
+второй second
+втяжка indent indention
+вход entry input admission
+входить enter get in log in login
+входной input entry
+выбирающий choosing selecting
+выбор option choice choosing selection pick
+выборграфика selection bar
+выборполя field selection
+выборпункта chose item
+выборрежимов select options
+выборустройства device selection
+выборка access fetch fetching sample sampling picking retrieval retrieve
+выборкаданных data retrieval data fetch
+выборочный selective sampled
+выборочныйконтроль selective control sampling test
+выборочныйметод sampling method
+выбранный selected
+выброс spike
+вывод conclusion consequence finding
+выводданных data output data out
+выводимоеизображение display image
+выводимый deducible
+выворотка negative plate
+выгонка space out of line
+выгрузка discharge unloading
+выдача drop-out dropout damping
+выделение allocation accentuation emphasis emphasizing
+выделенный selected allocated dedicated highlight
+выделенныйканал dedicated circuit dedicated channel
+выделенныйфайловыйсервер dedicated file server
+выделительныйшрифт display-type extended type
+вызванный activated called
+вызов call calling call request
+вызовпроцедуры procedure call procedure statement
+вызовфункции function call functional call
+вызываемый called
+вызывать activate invoke call
+вызывающий calling
+выключатель switch
+выключать switch off turn off disconnect shut down
+выключение disconnection disconnexion drop-out dropout shut down switching out
+выключениепитания power down power-up
+выключенный dead disconnected offline off-line aligned
+выключка alignment justify
+вынесение factorization
+выноска callout
+вынуждать compel
+вынужденный compelled forced
+выполнение execution processing run running effect implementation
+выполненный done executed
+выполнимость satisfiability
+выполнимый effectible practicable
+выполняемый executable
+выполняемыйоператор imperative statement
+выполняемыйфайл executable
+выполнять accomplish act carry out effect implement execute
+выпуклый convex
+выпуск discharge
+выпускать drop out
+выравненный justified
+выравнивание alignment justify justification flattening
+выравниваниевлево flush left left alignment
+выравниваниевправо flush right right alingment
+выражение expression representation
+выраженный expressed
+выразитьсм.
+вырез cut
+вырезание cut cutting
+вырезанный cut
+вырезать cut
+вырезка cut
+высокий high
+высококачественный quality high-quality top-quality letter quality
+высокоскоростной high-speed
+высокочастотный high-frequency
+высота height
+выставка showcase
+выстраивать align
+выступ hanging indent undent outdent
+высшаяточка peak
+высший senior upper highest high
+выталкивать pop
+вытеснение spill
+вытесняющаямногозадачность preemptive multitasking
+вытягивание extrude pulling
+вытянутый elongated elongate
+выход output
+выходной output
+выходнойформат output format layout object
+вычеркивание blotting blot deletion
+вычеркнутый scored
+вычерчивание desciption drawing sketching
+вычерчивать describe draw
+вычисление calculation calculating calculus counting computation
+вычислениеадреса address calculation
+вычисленный calculated
+вычислительнаямашина computer calculating machine
+вычислительнаятехника computing machinery computer science
+вычислительноеустройство calculating device
+вычислительный calculative computer computative computational
+вычислительныйпроцесс calculation process
+вычислительныйцентр computer center computation centre
+вычислительныйэлемент computetional element
+вычисляемаяфункция computable function
+вычисляемый computable
+вычитаемое subtrahend
+вычитание substraction deduction
+вычитаниеименованныхчисел compound construction
+вычитать subtract deduct
+выявление identification
+выявленный identified
+выяснение explanation elucidation
+галерея gallery
+галочка tick
+гарантированный guaranteed
+гарантировать guarantee
+гарантия guarantee warranty
+гарнитура typeface type family character font font style
+гасить switch
+гаснуть flicker out go out
+гачек hacek
+гашение blanking sleep
+генеральный general
+генератор generator
+генераторслучайныхчисел random number generator randomizer
+генерация generation
+генерированный generated
+генерировать generate
+генерируемый generic
+геометрия geometry
+гибкий flexible flex adaptable versatile
+гибкость flexibility
+гигабайт gigabyte
+гигабит gbyte
+гигагерц gigaherz
+гигантский giant
+гид guide
+гипер- hiper-
+гиперлинк hyperlink
+гипермедиа hypermedia
+гиперсвязь hyperlink
+гиперссылка hyperlink
+гипертекст hypertext
+гипертекстовый hypertext
+гипотетический tentative
+гистограмма histogram bar chart bar graph
+глава chapter
+главнаятаблицафайлов master file table
+главнаяуправляющаяпрограмма master control program
+главная ЭВМ host
+главный main head master
+главныйкаталог master directory root directory
+глобальнаясистемамобильнойсвязи Global Systems for Mobile Communications
+глобальный global wide
+глобальныйинформационныйсервер wide area information server
+глоссарий glossary
+глубина depth
+глянцеваяфотобумага glossy photo paper
+глянцевый glossy
+гнездо jack socket
+годовой annual
+годиться fit be fitted be suited
+годный fit suitable
+головка head
+голос voice
+голосовой voice vocal
+горизонталь horizontal
+горизонтально horizontally
+горизонтальный horozontal wide
+горячий hot
+готовить prepare
+готовность availability readiness
+готовый prepared ready
+гравюра graphic pan
+градуированный divided
+градус degree
+грамматика grammar
+грамматический grammatical
+гранение faceting
+граница boundary bound border edge frontier
+граничащий neighboured
+граничить neighbour border
+граничнаяпара bound pair
+граничный bound
+гранула granule
+грань border
+граф graph
+графа column
+график graph chart plot diagram
+графика graphics
+графически graphically
+графический graphic graphical pictorial
+графическийэлемент clip art pictorial element
+графическоеизображение image graphic chart
+графическоепредставление diagrammatic representation graphics
+графопостроитель plotter
+грикинг greeking
+громкий loud
+громко loud
+громкость volume loudness
+грубаяошибка hard error
+грубый hard
+группа group team ensemble
+группирование block-in ganging grouping
+группировать group
+группировка grouping alignment
+групповаяпередача multicast
+групповоеокно group box group window
+групповой group team
+гудение buzzing
+гудеть buzz hoot
+давление pressure push
+далее next further then
+далекий far remote distant
+далеко far
+дальнейший further
+дальний far distant remote
+дальняясвязь long distance remote connection
+дамп damp
+данные data
+данныерасчетов calculation data
+данный present given
+данное datum
+дата date
+датировать date
+датировка dating
+датчик controller transducer gauge sensitive element
+двадцатичный vicenary
+дважды twice double
+двенадцатиугольный dihexagonal
+двигатель engine
+двигать move advance
+движение movement moving motion
+движимый movable moved
+движущий motive
+двоеточие colon two-spot
+двоиться divide in two appear double
+двоичнаяпересылкафайлов binary file transfer
+двоичнаясистемасчисления binary number system binary notation dyadic system
+двоичнаяфункция binary function
+двоичнаяцифра binary digit
+двоичныечисла binary numbers
+двоичный binary dyadic
+двоичныйассиметричныйканал binary asymmetric channel
+двоичныйдекодер binary decoder
+двоичныйзагрузчик binary loader
+двоичныйзнак binary digit
+двоичныйинтерфейс binary interface
+двоичныйинтерфейсприложения application binary interface
+двоичныйканал binary channel
+двоичныйкод binary code
+двоичныймасштаб binary scale
+двоичныйобраз bit image
+двойнаявысота double-height
+двойнаязагрузка dual boot
+двойнаянезависимаяшина dual independent bus
+двойнаяошибка double fault
+двойнаяпечать double strike
+двойнаяпропорция duplicate proportion
+двойнаяширина double width
+двойнаяштриховка double hatch area
+двойноеколичество double
+двойноенажатие double click
+двойной dual double duplex twin duple duplicate
+двойственный dual
+двугранный dihedral
+двумерный two-dimensional
+двумерныймассив two-dimensional array
+двуместнаяоперация dyadic operation
+двунаправленнаяпередачаданных bidirectional data transfer
+двунаправленнаяпечать bidirection printing
+двунаправленный bidirection
+двунаправленныйкурсор two-headed arrow
+двунаправленныйпринтер bidirection printer
+двусторонний duplex bidirectional
+двухадреснаякоманда two-address instruction
+двухадресный two-address
+двухвходоваяпамять two-port memory
+двухвходовый two-port
+двухзначный two-digit
+двухмерный two-dimensional
+двухсторонняядискета flippy disk double-sided disk
+двухканальный dual channel
+двухканальныйконтроллер dual channel controller
+двухконечнаястрела double headed arrow
+двухконтурный double circuit
+двухпортовый two-port
+двухпроцессорныйкомпьютер dual computer
+двухслойнаяцепочка dword string
+двухсторонняяпубликация double-sided publication
+двухсторонняясвязь duplex communication
+двухсторонний double-sided duplex
+двухточечнаялиния point-to-point line
+двухцветный two-color
+двучлен binomial
+двучленный binomial
+деблокировать deblock
+девятеричный nonary
+дезорганизовать disorganize
+деинсталлированный deinstalled uninstalled
+деинсталлировать deinstall uninstall
+дейтаграмма datagram
+действенно effectually
+действенность effectiveness effectuality efficiency
+действенный effective effectual
+действие act action operation effect
+действительность reality
+действительный actual real
+действовать act execute work operate
+действующий current going effective efficient operative
+дейтаграмма datagram
+дейтаплоттер dataplotter
+дейтафон dataphone
+декагон decagon
+декаэдр decahedron
+декодер decoder
+декодирование decoding
+декодировать decode
+декомпиляция decompilation
+декомпрессия decompression
+декоративный decorative
+декремент decrement
+делать make do
+деление divide division partition
+делимое dividend
+делимость divisibility partibility
+делимый dividual divisible partible
+делитель measure divisor
+делить divide share
+делиться divide be divisible
+дельта delta
+дельтовидный deltoid
+дельтоид deltoid
+демодулятор demodulator
+демодуляция demodulation
+демон daemon
+демонстрационный demonstration demo
+демонстрация demonstration presentation
+демонстрировать demonstrate display
+демонтаж disassambly
+демонтировать disassamble
+день day
+депонирование depositing deposition
+депонировать depose
+депрессор depressor
+дерево tree
+деревовывода derivation tree
+дереводоменов domain tree
+держать keep
+дескриптор descriptor
+деспулинг despooling
+дестабилизация destabilization
+дестабилизировать destabilize
+десятигранник decahedron
+десятигранный decahedral
+десятиугольник decagon
+десятиугольный decagonal
+дробь decimal
+десятичнаясистемасчисления decimal number system decimal notation algorithm
+десятичнаяточка decimal point
+десятичнаяцифра decimal digit
+десятичный decimal
+десятичныйзнак decimal decimal character
+детализация detalization
+детализировать detail
+деталь detail
+детально in detail
+детальность detail
+детальный detailed explicit
+детектор detector
+детекторвызовов call detector
+детектордвоичныхобразцов binary pattern detector
+детекторпересечениянуля zero crossing detector
+дефект defect disadvantage fault
+дефектный bad defect deficient
+дефектныйблок bad unit
+дефектныйкластер bad cluster
+дефис hyphen
+деформация distort
+деформированный distorted
+дефрагментатордиска disk defragmenter
+дефрагментация defragmentation
+дефрагментациядиска defragment program
+дефрагментацияфайлов file defragmentation file unfragfmentation
+дефрагментировать defrag
+децимальный decimal
+дешифратор decoder
+дешифраторкоманд command decoder operation decoder instruction decoder
+дешифрование decryption
+джекет jacket
+джойстик joystick
+джок jock
+диагностика diagnostics
+диагностировать diagnose
+диагностический diagnostic
+диагностическийдиск diagnose disk
+диагональ diagonal
+диагональный diagonal
+диаграмма diagram plot chart graph
+диада dyad
+диалог dialog
+диалоговаяобработка on-line processing
+диалоговаясистема dialog system conversational system
+диалоговый dialog dialogic conversational conversation on-line online
+диалоговыйотладчик console debugger dialog debug technique
+диалоговыйперенос prompted hyphenation
+диалоговыйпроцессор dialog processor conversational processor
+диалоговыйрежим dialog mode interactive mode
+диаметр diameter
+диапазон range
+диапазонинтервалов spacing ranges
+диапазонадресации addressing capacity
+диапазонадресов address range
+диапазонданных data span data range
+диапазонизменениячисел number range
+диапазонколонок column range
+диапазонотклонений spread
+дивергентный divergent
+дивергенция divergence divergency
+дигитайзер digitizer
+диджитроника digitronics
+дизайн design
+дизайнер designer
+динамик speaker
+динамическаяоперативнаяпамять dynamic random access memory dynamic RAM
+динамически dynamic
+динамический dynamic
+динамическое ОЗУ dynamic random access memory dynamic RAM
+динамичный dynamic
+директива directive
+дисассемблирование unassemble
+дисассемблировать unassemble
+диск disk
+дискета diskette 
+дисковод disk drive
+дисковый disk
+дискретизация discretization sampling
+дискретнаявеличина discrete quantity
+дискретный discrete discontinuous sampled
+дискретныйперенос discretionary hyphen
+дискретныйсигнал discrete signal
+дискретность discreteness
+дискриминант discriminant
+диспетчер manager dispatcher executive
+диспетчервиртуальнойпамяти virtual memory manager
+диспетчерзадач task manager
+диспетчермакросовизатоговок script and preset manager
+диспетчеробъекта object manager
+диспетчеротображаемойпамяти expanded memory Manager
+диспетчерпамяти memory manager
+диспетчерпользователей user manager
+диспетчерпрограмм program manager
+диспетчеррасширений extensions manager
+диспетчеррасширеннойпамяти extended memory manager
+диспетчерустройств devices manager
+диспетчерфайлов file manager
+дисплей display
+дистанционный remote distant
+дистанционныйдоступ remote access
+remote controlled
+дисторсия pinch
+дистрибутив distribution kit
+дистрибуция distribution
+дифференциал differential
+дифференциальнаяшина bus differential
+дифференциальноеисчисление differential calculus
+дифференциальный differential
+дифференциатор differentiator
+дифференциация differentiation
+дифференцирование derivation differentiation
+дифференцированный differentiated graded
+дифференцируемость derivability
+диффузия diffuse
+длина length
+длинастраницы form length length of page
+длинный long prolonged
+длительность continuance duration length
+длительный sustained long prolonged
+длиться continue go on extend
+добавка add-in addition
+добавки add-ins
+добавление addition supplement adding appendix
+добавляемый add-on
+добавлять add supplement append
+добавляющий adding
+добавочный added add-on additional complementary extra
+добавочныйблокпамяти add-on memory unit
+добывать gain
+довод argument
+дозволенный permitted legal
+доказательный conclusive
+доказательство argument proof
+доказуемоеположение demonstrable proposition
+доказуемость demonstrability
+доказуемый demonstrable
+доказывание proving
+документ document script
+документалист documentalist documentation officier
+документальнаясистема document system
+документальный documental documentary
+документация documentation documents
+документированный documented
+документировать document
+долгий long
+долговременный long-term
+доля part portion share
+дом home
+домашний home
+домен domain
+доменноеимя domain name
+сервердоменныхимен domain name server
+доменный domain
+доменресурса resource domain
+доминировать dominate predominate
+доминирующий overriding
+дополнение complement expansion supplement supplementation addition adding add-on
+дополненный added enhanced optional
+дополнительная ЭВМ satellite computer
+дополнительно extra
+дополнительность complementarity
+дополнительный auxiliary accessorial added additional complement add-on advanced extra overhead supplemental supplementary
+дополняющий adding
+допуск pass permit right of entry
+допускаемый allowed
+допускать admit allow
+допускающий permissive
+допустимаяошибка admissible error permissible error delta
+допустимость permissibility
+допустимый admissible enterainable permissible legal
+допустимыйсимвол admissible character
+допущение assumption
+доработка finishing
+дорожка track
+доска blackboard
+досрочный ahead of time
+достаточно enough sufficiently
+достаточность adequacy
+достаточный sufficient adeqaute
+достигнутый reached
+достижение achivement improvement progress
+достижимость reachibility
+достижимый attainable capable of achivement
+достоверность reliability validity
+достоверный fiducial authentic reliable
+доступ access admission 
+доступность availability reach facility
+доступный available disposable accessible
+досягаемость reach
+досягаемый attainable
+дочерний child
+драйвер driver
+дрема drowse
+древовидный tree
+дробный fractional
+дробь fraction
+дрожание jitter
+дрожаниефазы jitter
+другой different another
+дублетныйфонд duplicate collection
+дубликат copy duplicate duplication counterpart
+дублирование double dubbing duplicate duplication replication
+дублированный duplicated
+дублировать double dub duplicate replicate
+дублирующаяцифроваяЭВМ backup digital computer
+дублирующееустройство add-on unit
+дублирующий backing up duplicate
+дубль double back up
+дуплекс duplex
+дуплексирование duplexing
+дуплекснаяпередача duplex
+дуплекснаясвязь duplex communication
+дуплексный duplex
+дуплексныйканал full duplex circuit
+дуплексныйрежим full duplex
+дупликатор duplicator
+дуга arc chord
+дюйм inch
+единица unity
+единицаизмерения measure unit of measure
+единаяподдержкакоммуникаций common communications support
+единичный single isolated
+единcтвенный the only
+единый common united indivisible
+ежегодный annual
+ежедневно daily every day
+ежедневный daily
+ежемесячный monthly
+еженедельный weekly
+емкий capacious
+емкость capacity
+емкостьдисплея display capacity
+емкостьпамяти memory capacity
+емкостьрегистра register capasity register size
+емкостьцилиндра cylinder density
+естественный natural
+естественныйязык natural language free language
+еще else still
+жаргонпрограммистов computerese hackerese
+ждать wait
+ждущаязадача waiting task
+ждущий waiting
+ждущийпроцесс waiting process
+ждущийцикл wait loop
+жесткий hard rigid
+жидкий liquid
+жидкокристаллический liquid crystal
+жидкость liquid
+жизнь life
+жирный enhanced extended fat
+жокей jock
+журнал journal log
+жучок beetle
+заархивированный archived
+заархивировать archive
+заблокированный blocked locked inhibited disabled dead stand-by
+заблокировать block disable
+заборка recomposition recomposed line
+завершение conclusion completion finishing end termination
+завершениеадреса address complete
+завершениесеанса logging off
+завершениетранзакции commitment
+завершенный completed finished
+зависание freeze hang hang-up hung starvation
+зависеть depend
+зависимость dependence
+зависимый dependent
+зависящий depended
+завсегдатай goer
+заводской factory
+заглавие title heading
+заглавный title
+заглушка endcap gap closure module stab
+зазор gap
+заголовок caption head heading headline rubric
+заголовококна caption
+заголовокосиaxis heading
+заголовочный head
+загружаемый loading loadable downloaded
+загружаемыйшрифт downloaded font loadable font
+загружающий loading
+загруженный loaded
+загрузка loading load download downloading
+загрузочный boot
+загрузочныйдиск boot disk start-up disk
+загрузочныймодуль load module
+загрузочныйсектор boot sector
+загрузчик loader
+задавание determination
+заданный programmed preset
+задание job task
+заданный defined programmed
+задача task job problem
+задействованный enabled
+задействовать enable
+задержанный delayed
+задержка delay holdback lag
+задний back
+заедание jam
+заказ order
+заказной custom made to order
+заказчик customer client
+заканчиваться end finish abort
+закладка bookmark
+заклиненный keyed
+заключать end enclose
+заключаться consist lie be
+заключение consequence conclusion decision finding
+заключительный concluding final ending
+закодированный coded encoded
+закодировать code encode
+закомментировать comment out
+законченный ended finished accomplished
+закорачивание abridgement
+закорачивать abridge
+закраска fill fillng
+закрашенный filled
+закрашивание fill filling painting
+закрепление fixing
+закрепленный fixed dedicated
+закрывающаякавычка backspark
+закрытаяархитектура closed architecture
+закрытие closing shutting closing down
+закрытиефайла file closing
+закрытоесвойствокласса private class property private property
+закрытый closed shut locked enclosed private
+закрытыйметодкласса private class method private method
+заливка flood filling paint backet shading
+залипание sticky
+замедление deceleration delay delaying retardation
+замедленный delayed retarded
+замедлитель decelarator
+замена alternate change exchange substitute replacement substitution 
+замененный changed
+заменимый replaceable
+заменитель substitute
+заменяемость transferability
+заменяемый replaceable
+заменяющий change substitutional replacement
+заменяющийтекст replacement text
+замещать override substitute replace
+замещение override overwrite substitution replacement
+заминка hitch
+замкнутаяцепь closed circuit
+замкнутый enclosed
+замок lock
+замыкание abridgement locking short circuit
+заново newly anew over again
+занятие occupation seizure wait operation
+занятый engaged occupied taken allocated
+занято engaged busy
+запаздывание lag
+запаздывать lag
+запаздывающий lag lagging
+запакованный pack
+запас stock supply store
+запасать stock
+запасной reserved stand-by spare emergency
+записывающий recording writing
+запись record writing entry logging
+записьактивации activation record frame
+заплата patch
+запоздалый overdue retarded
+заполнение fill shading
+заполненнаябазаданных loaded data base
+заполененный loaded populated filled occupied
+заполнительтекста text placeholder
+запоминание memorization
+запоминающий storage memory
+запрашивающий inquiring
+запрет ban inhibition prohitition
+запретительный prohibitive
+запретный forbidden prohibited banned
+запрещающий prohibitory no-go
+запрещение prohibition ban
+запрещеннаякоманда illegal instruction
+запрещеннаяоперация illegal operation
+запрещение ban disallowance inhibit inhibition prohibition
+запрещенный disabled forbidden inhibited prohibited illegal unavailable
+запрещено disabled
+запрограммированный programmed preset
+запрограммировать preset program
+запрос query inquiry enquirer request call demand
+запуск start start-up run firing
+запутанность confusion
+запутанный complicated tricky
+запущенный run
+запятая comma
+заранее in advance
+зарегистрированный registrated
+зарегистрировать registrate register record
+зарегистрироваться register oneself
+зарегистрированный registrated authorized
+зарегистрировать registrate
+зарегистрироваться logon log on
+зарезервированный reserved sacred
+зарезервировать reserve reservate
+зарисовывание paint out
+зарядка charge charging
+заряженный charged
+засекреченный classified coded secret
+засечка tick serif
+заслонка choke
+заставка screen saver screensaver
+застопориться glitch
+затенение shading
+затененный shaded
+затенять shade
+затирать zap scratch
+затор jam
+затормозить slow down hold up
+затравка seed
+затребовать ask for request require
+затруднение difficulty
+затруднительный difficult
+затухание fading fade
+затянувшийся prolonged
+зафиксированный fixed
+зафиксировать fix
+захват lockout gripper
+захватфайла file locking
+захватчик hook
+захваченный captured occupied
+захваченныйцикл stolen cycle duty cycle
+зацепить anchor get hold hook
+зацепиться catch on catch hold of
+зацепляющий catching
+зацикливание endless loop cycling loophole
+зашитыепрограммы firmware
+зашифрованный ciphered encoded secret
+зашифрованныйтекст ciphertext secret language
+зашифровка cipher enciphering
+заштрихованный shaded
+защита protection security guard lock
+защитаданных data protection
+защитаданныхЭВМ computer security
+защитаконтролируемогодоступа controlled access protection
+защитапамяти memory protection memory guard
+защитасистемы system security
+защитафайла file security file protection
+защитный safety protective
+защищаемый guarded locked
+защищамыйобъект locked
+защищать protect guard safeguard ward
+защищающий protecting
+защищеннаябыстраякоммутацияпакетов secure fast packet switching
+защищеннаяклетка protect cell
+защищенноеполе protected field
+защищенноесвойствокласса protected class property protected property
+защищенный protected secure restricted secret
+защищенныйметодкласса protected class method protected method
+защищенныйрежим protected mode
+защищенныйфайл protected file
+защитный protecting protective
+заявитьсм.
+заявка claim application
+заявление statement
+звезда star
+звездочка asterisk splat
+звонить ring ring up call
+звук sound
+ audio
+звуко- sound
+звуковаядорожка sound track audio track
+звуковаяплата audio interface board audioadapter sound card sound board
+звуковой audio sound wave
+звуковойадаптер sound board sound card
+звуковойвывод sound output
+звуковойсигнал wave sound acoustic signal
+звуковойфайл wave file
+звукозапись wave sound recording
+звукоизоляция sound-proofing
+звукооператор sound-producer sound-technician
+звукосниматель pick-up
+звукоулавливатель sound-detector
+звучание sound sounding
+звучать sound ring
+здесь here
+зеркало mirror
+зеркальный mirror mirrored
+зернистость graininess
+зернистый granular grainy
+зерно grain
+зигзаг zigzag zig-zag
+зигзагообразный zigzag
+знак character symbol
+знакарифметическойоперации arithmetic operation character arithmetic operator
+знакипрепинания punctuation marks
+знаклогическойоперации logical operation character logical operator
+знакогенератор character generator
+знакоместо font reticle
+знакравенства equal mark equal sign
+знакссылкинасноску marker for note
+знакударения mark of accent
+знаменатель denominator
+знать know
+значащаяцифра significant digit
+значащий significant
+значащийразряд significant digit
+значение value
+значениепоумолчанию application default default value
+значениепараметра parameter value
+значимость value significance
+значимый valuable significant
+значительно greatly
+значительный considerable meaningful great
+значить mean signify be of importance
+значиться be be mentioned
+значок icon mark
+зона zone region band
+зональный zone zonal
+зональныйкоординаторзоны zone echomail coordinator
+зонированный zoned
+зрительный visual optic
+и and
+игнорировать ignore
+игла pin
+игольчатый pin
+игра game
+играть game
+игровой game
+игровойадаптер game control adapter
+идентификатор identifier descriptor
+идентификаторбезопасности security identifier security ID
+идентификация identification
+идентификационный identification
+идентифицированный identified
+идентифицировать identify
+идентичность identity
+идентичный identical
+идея idea
+иерархическая СУБД
+иерархический hierarchic
+иерархическийметоддоступа hierarchical access method
+иерархическийпоследовательныйметоддоступа hierarchical sequential access method
+иерархическийпрямойметоддоступа hierarchical direct access method
+иерархия hierarchy
+иерархияданных data hierarchy
+иерархияпамяти memory hierarchy storage hierarchy
+избегать avoid escape
+избирательность attenuation
+избранный select
+избыток excess surplus
+избыточность redundancy
+избыточный excess surplus
+известный well-known known
+извещение notice notification
+извлекаемый extractable
+извлечениe extraction
+извлечениекорня evolution extraction of the root
+извлеченный extracted
+извлечьсм.
+извне from outside
+изгиб bend curve flexion flexure
+изгибать curve
+изготовитель manufacturer producer
+изготовленный made
+излишек excess surplus
+излишний excess excessive surplus unnecessary
+изменение alternation amendment variation conversion change changing transformation
+измененный changed modified
+изменяемый changeable transient
+изменчивость variability
+изменчивый variable
+изменяемый variable
+изменяться variate change
+измерение dimension
+измеренный measured gauged
+изображение art image imagery rendition
+изобразительный graphic decorative
+изолированный isolated insulated sealed
+изолировать isolate insulate
+изоляция isolation insulation
+изучение examination study
+изученный explored
+изъятие exception
+икона icon
+иконика iconics
+иконка icon
+иконоскоп iconoscope
+или or
+иллюстративный illustrative
+иллюстрация illustration platen picture
+именованный named
+именовать name
+имеющийся existing
+имеющийсяфайл existing file
+имитатор simulator
+имитация greeking
+имперсонация impersonation
+импликация implication
+импорт import
+импортирование import
+импортировать import importing
+импортирующий importing
+импульс pulse impulse impact
+импульсный pulse pulsed
+имя name
+имягруппы group name
+имядомена domain name
+инверсионный inverted
+инверсия invert inversion inverse
+инверсияцвета invert color
+инвертированный inverted
+инвертировать invert
+индекс index subscript number
+индексация indexing
+индексирование indexing
+индексированный subscripted indexed
+индексировать index
+индексируемый indexable
+индексный index indexed
+индикатор indicator indication tracker
+индикаторнаягруппаадреса address indicating group
+индикаторнаядиаграмма indicator-diagram
+индикаторный indicating indicated
+индикаторходаработы progress indicator
+индикаторходапроцесса progress indicator
+индикатриса indicatrix
+индикация indication display
+индикацияправильностиданных valid data indication
+инженер engineer
+инженерный engineering
+инициализация initialization
+инициализированный initialized
+инициализировать initialize
+инициалы initials
+инициирование initiation
+инициировать preload initiate
+инкапсуляция encapsulation
+инкремент increment
+инкрементный increment
+иностранный foreign
+инсталлировать install
+инсталлятор installer
+инсталляция setting installation setup
+инструктивный instructive
+инструктировать instruct
+инструктор instructor
+инструкция instruction instructor
+инструмент instrument tool
+инструментальный tool
+интеграл integral
+интегральный integrated integral
+интегральныйадаптер integrated adapter
+интегральныйсчетчик instruction counter
+интегральноеисчисление integral calculus
+интегратор integrator
+интегрирование integration
+интегрированнаябазаданных integrated database
+интегрированнаясистема integrated system
+интегрированнаяобработкаданных integrated data processing
+интегрированнаясреда integrated environment
+интегрированнаясредаразработки integrated development environment
+интегрированнаяцифроваясетьсвязи integrated services digital network
+интегрированный integrated
+интегрировать integrate
+интегрирующий integrant
+интеллектуальнаяплата smart card intelligent board
+интеллектуальный intelligent smart
+интеллектуальныйтерминал smart terminal intelligent terminal
+интенсивность intensity depth
+интенсивный intensive
+интерактивнаяпрозрачность interactive transparency
+интерактивный interactive on-line online
+интерактивныйрежим interactive mode
+интервал interval gap domain
+интервальнаяполоса space bar spacebar
+интерлиньяж line spacing leading interlinear blank inter-line interlinear space
+интерполированноеразрешение interpolating resolution
+интерполированный interpolating
+интерпретатор interpreter
+интерпретация interpretation
+интерпретировать interpretate
+интерпретируемый interpreteted interpretable
+интерсеть internet Internet
+интерфейс interface interface device
+интерфейсадаптера adapter interface
+интерфейсвидеоустройств video device interface
+интерфейсная ЭВМ interface computer
+интерфейсный interface
+интерфейсприкладныхпрограмм application programming interface
+интерфейсразработкиприложений application development interface
+интерфейсрасширенногонакопителяданных extended storage device interface
+интерфейссвязимеждуприложениями application-to-application interface
+интерфейсуправлениядисплеем display control interface
+интерфейсшины bus interface
+интранет intranet
+инфицированный infected
+информативный informative factual
+информатика informatics computer science information science
+информационнаябаза data bank
+информационнаябазакаталога directory information base
+информационнаябазапереадресации forwarding information base
+информационнаяемкость information capacity
+информационный information
+информационныйфайлпрограммы program information file
+информационныйцентр information centre data centre
+информация information info data clue
+информированный informed clued
+информировать inform
+инфракрасный infrared infra-red Ir
+инфракрасныйинтерфейс infrared interface Ir interface
+инфракрасныйпорт infrared port Ir port
+иррациональный irrational
+иррегулярный irregular
+искажение distortion corruption contortion
+искаженнаяинформация garbled information
+искаженный distorted garbled
+искатель finder
+искать look for retrieve
+исключающее ИЛИ exclusive-or
+исключающее НЕ-ИЛИ exclusive-nor
+исключая except
+исключение exception exclusion
+искривление curve curvature
+исключительный exclusive exceptional
+искривлять curve
+искусственный artificial
+искусственныйинтеллект artificial intelligence machine intelligence
+исполнение run running execution
+исполнитель performer effector
+исполнительный executive
+исполнительныйадрес actual address effective address executive address
+исполняемый imperative executable
+исполняемыйоператор imperative operator
+исполняемыйфайл executable file
+исполняющий acting active
+использование use using usage utilization
+использовать use
+используемый used
+использующий using
+испортить broke
+испорченный broken corrupted decayed faulty
+испорченный corrupted garbled
+испорченныйфайл garbled file corrupted file
+исправимаяошибка correctable error recoverable error
+исправимость treatability
+исправимый correctable corrigible recoverable
+исправление correction revision emendation
+исправлениеошибок error correction error recovery
+исправленный corrected revised fixed
+исправный efficient in working order
+испытание testing test proving
+испытаниепрограммы program testing prove
+испытанный tried
+испытывать prove test
+исследование exploration exploring research analysis
+исследованный explored
+исследователь explorer researcher
+исследовательский explorative research
+исследовать explore research
+истина true
+история
+источник source parent source of information
+исходнаяточка initial point take-off
+исходноеположение home
+исходный source origin original initial home zero
+исходныйтекст source incoming text
+исчезнувший vanished
+исчезновение disappearance
+исчерпывающий exhaustive
+исчислениевероятностей calculus of probabilities calculus of varation
+исчисленный calculated
+исчислимость countability
+исчислимый computable numerable
+исчислитьсм.
+исчисляемость countability
+исчисляемый countable
+исчисляющий enumerative
+итерационный iterative
+итерация iteration
+итог consequence outcome result total
+итоговый total final
+ищущий retrieving
+кабель cable
+кабельный cable
+кавычка quote
+кадр frame
+кадрактивации activation frame
+кадрирование crop cropping
+кадрировать crop
+каждый every
+календарный calendar
+календарь calendar
+калибровка calibration tuning
+калькулятор calculator
+камера camera
+канал channel link pipe
+каналввода/вывода input/output channel
+каналпередачиданных channel link data link data channel
+каналсвязи communication link link
+канальныйуровень data link layer
+карандаш pencil
+кардинальный cardinal
+каре caret
+каретка carriage
+каркас wareframe
+карман pocket bin
+карманный pocket
+карманныйкомпьютер hand held PC pocket
+карта card map
+карта Карно
+картарасширения expansion card
+картинка picture illustration depiction
+картотека card-file card file card-index
+картотекасправок search file
+картотечныйблок filing cabinet
+карточка card
+картридж cartridge
+касание contact
+касательная tangent
+касательный tangent
+каскад cascade
+каскаднаясистема cascade system
+каскадноеменю cascading menu
+кассетныйдиск disk cartridge
+каталог catalog raisonne directory
+каталогверхнегоуровня ancestor directory
+каталогданных data directory
+каталогизатор cataloguer cataloger cataloguist
+каталогизация cataloguing cataloging
+каталогизированный cataloged
+каталогизированныйнаборданных cataloged data set
+каталогизировать cataloguize
+категория category class
+качественнаяпечать correspondence quality printing quality print
+качественный high-quality
+качество quality
+квадрант quadrant
+квадрат square quad quadrate
+квадратный square quadrantal quadrate
+квази- qausi-
+квазикоммутативныйконтроллер approximately commutative controller
+квалификатор qualifier
+квалификация expertize qualification
+квалифицированный efficient expert qualified
+квант quantum
+квантизатор quantizer
+квантизация quantization
+квантифицируемый quantified
+квантование quantization
+квантователь quantizer
+квантовать quantize
+квантовый quantum
+квантор quantifier
+кварцевый quartz
+кватернарный quaternary
+квитирование acknowledgement handshaking
+квитировать acknowledge
+кегль font size type size body size
+кернинг kerning
+кибернетик cybernetician cybernetist cyberneticist
+кибернетика cybernetics
+кибернетизация cybernation
+кибернетический cybernatic
+киберпространство cyberspace
+килобайт kilobyte
+килобит kilobit
+килобод kilobaud
+килогерц kilohertz
+кинескоп image tube
+кириллица cyrillic
+кисть paint brush paint-brush paintbrush brush detail
+клавиатура keyboard
+клавиша key
+клавишагашения clear key
+клавишадоступа access key
+клавишапрерывания break key
+клавишапробела spacebar
+клавишибыстроговыборакоманд quick keys access keys hot keys
+класс class category
+классификатор classifier
+классификационный class classific
+классификация classification systematics arrangement ordering grading
+классифицирование classifying
+классифицированный classified
+классифицировать arrange class classify
+классструктурданных data structure class
+кластер cluster allocation unit
+кластеризация clustering
+кластерный cluster clustered
+кластерныйанализ cluster analysis
+клетка cell
+клиент client
+клип clip
+клипарт clip art clip-art
+клон clone
+клудж kludge
+ключ key button key
+ключевой key
+ключзаписи record key
+ключзащиты protection key
+ключзащитыпамяти storage protection key
+ключкачества quality knob
+ключкоманднойстроки command line switch
+ключреестра registry key
+КМОП-структура CMOS
+кнопка button key
+коаксиальный coaxial
+код code cipher
+кодек
+кодер coder
+кодидентификациисети data network identification code
+кодирование coding encoding
+кодированиеданных data coding
+кодированиесимволов character coding
+кодированный ciphered coded
+кодировать code
+кодировка coding encoding
+кодирующий coding encoding
+кодификатор codifier
+кодификация codification
+кодифицировать codify
+кодкоманды instruction code
+коднесущейидентификации carrier identification code
+кодоваямодуляция code modulation
+кодоваястраница code page
+кодовый code
+кодовыйвызов call by number
+кодограмма codogram
+колебание wave
+колеблющийся dithered
+количественный quantitative
+количество amount number quantity
+коллинеарность collinearity
+коллинеарный collinear
+коллинеация collineation
+колонка column
+колонтитул footer running foot
+колонцифра page number folio
+кольцеваясеть ring network ring backbone
+кольцевой ring
+кольцо ring
+команда instruction command
+командабезусловногоперехода unconditional jump instruction unconditional branch instruction
+командаввода input instruction
+командаветвления branch instruction
+командавозврата return instruction
+командавывода output instruction
+командазаписиметки label command
+командаобращениякпамяти memory reference instruction
+командапаузы pause instruction
+командапередачиуправления jump instruction branch instruction
+командапересылки sending instruction
+командаперехода jump instruction branch instruction
+командаусловногоперехода condition jump instruction condition branch instruction
+командачтенияпамяти memory read command
+команднаяклавиша accelerator key keyboard accelerator shortcut key command key
+команднаясреда environment
+команднаястрока command line
+командноеокно command box
+командный command
+командныймодуль command module
+командныйпроцессор command processor shell
+командныйрежим command mode
+командныйфайл batch file command file indirect file
+комбинаторнаясхема combinatorial circuit
+комбинаторный combinatorial
+комбинационный combinational
+комбинация combination
+комбинированный combined
+комбинированныйкадр composite shot
+комбинированныйобработчикдокументов compound document processor
+комбинированныйсписок combo box combobox
+комбинировать combine
+комментарий annotation comment commentary
+комментирование commentation
+комментировать annotate comment
+коммерческийпрограммныйпродукт program product software
+коммуникативный communicative comminicatory
+коммуникативныйформат communicative format
+коммуникационныелинии communications
+коммуникационный communication communicative comminicatory
+коммуникационныйбуфер communication buffer
+коммуникационныймеханизм communication engine
+коммуникации communications
+коммуникация communication
+коммутативность commutativity
+коммутативный commutative
+коммутатор commutator switch switchboard
+коммутация switching
+коммутирование switching
+коммутируемый switched
+коммутирующий switching
+компактно densely
+компактность denseness density
+компактный compact compacted dense
+компенсация compensation
+компенсированный compensated
+компенсировать compensate
+компилированный compiled
+компилировать compile
+компилируемый compiled
+компилирующий compiling
+компилятор compiler
+компиляция compilation
+комплекс complex set
+комплекснаяавтоматизация integrated automation
+комплексный integrated combined complex compound composite
+комплекспрограмм program complex routine set
+комплект set
+комплектовать complete
+комплиментарный complimentary
+композиция composition
+компонент component
+компоновать link bind pack edit
+компоновка compositing linking linkage editing
+компоновщик linker linkage editor
+компонующий linking
+компонующийзагрузчик linking loader
+компрессия compression
+компьютер computer
+компьютеризация computing
+компьютерный computer
+компьютерщик computerman
+конвейер pipe pipeline
+конвергенция convergence convergency
+конверсия conversion
+конверт envelope jacket
+конвертер convertor
+конвертор convertor converter
+конгруэнтность congruence congruency
+конгруэнтный congruent congruous
+конденсатор condenser
+конец end finish
+конецдокумента end of document
+конецзаписи end of record
+конецканала channel end
+конецмакрокоманды end of macro
+конецраздела end of section
+конецсеанса end session
+конецфайла end-of-file
+конецциклакоманд command session end
+конецтома end of volume
+конечнаявеличина stop value
+конечнаяточка endpoint end point
+конечный end ending stop finite ultimate
+конечныйавтомат finite-state machine
+конечныйадрес final address
+конечныйограничитель end delimeter
+конечныйпользователь end user end-user ultimate user
+конический conic
+конкатенация concatenation
+конкатенировать concatenate
+конкорданс concordance
+конкретизировать specificate
+конкретный concrete
+коноид conoid
+конормальный conormal
+консолидировать consolidate
+консоль console
+консольуправления control console
+константа constant 
+константный constant
+конструирование construction designing
+конструировать construct
+конструирующий designing
+конструктор designer
+конструкция construction
+контакт contact hookup contingence
+контактировать contact
+контактный contact
+контактныйсветочувствительныйэлемент contact image sensor
+контекст context
+контекстнаясправка context-sensitive help
+контекстноеменю context menu shortcut menu pop-up menu
+контекстный context contextual context dependent
+контекстныйпоиск context search
+континуальный continual
+контравариантный contravariant
+контраст contrast
+контрастировать contrast
+контрастный contrast
+контролепригодный easy-to-test
+контролировать control verify supervise
+контролируемый controlled supervised
+контролирующий auditing control supervisory
+контроллер controller
+контроллерканала channel controller
+контроллерклавиатуры keyboard controller
+контролеруправления master controller
+контроллершины bus controller bus watcher
+контроль control verification supervision walkover
+контрольвызова call control
+контрольданных data check
+контрольник verifier
+контрольный check control rescue auditorial auditing master
+контрразведчик jedgar
+контур contour outline path circuit periphery
+контурный outline outnear
+контурныйшрифт outline font
+контурный contour cutout circuit
+контурныйрежим wire frame
+контурныйшрифт contour font outline font
+конус cone
+конусность conicity
+конусный conic
+конусообразность conicity
+конусообразный conic conodial
+конфигуратор configurator
+конфигурация configuration
+конфигурировать configure
+конфиденциальный confidential
+конфликт conflict collision
+конфликтный conflict
+конформный conformal
+концентратор hub concentrator
+концентрация concentration
+концентрированный concentrated
+концентрировать concentrate
+концептуальный conceptual concept
+концепция concept conception
+конъюнкция conjunction
+координата coordinate
+координатный coordinate
+координатор coordinator
+координаты coordinates
+координационный coordination
+координированный coordinated
+координировать coordinate synchronize
+копировальный copier copy copying
+копирование copy copying
+копировать copy
+копия copy duplicate duplication ditto
+копиядокумента duplicate document
+копияэкрана screen hard copy
+корзина bin basket trash
+корень root radical
+корневой root
+корневойкаталог root master directory
+корневойсегмент root segment
+короткий short
+корпоративный corporate
+корпорация corporation
+корректировать correct adjust upgrade
+корректировка correction update
+корректор spelling checker
+корректура correction galley
+коррекция correction adjust
+коррелированный correlated
+коррелировать correlate
+коррелят correlate correlative
+кортеж tuple
+косвеннаяадресация indirect addressing deffered addressing
+косвенный indirect
+косвенныйадрес indirect address
+косинус cosine
+котангенс cotangent
+коэффициент coefficient factor index
+коэффициентактивностифайла file active ratio
+коэффициентиспользования efficiency
+коэффициентпроизводительности performance index
+коэффициентпропускасекторов interleave factor
+коэффициентсжатия aspect ratio
+коэффициентсложностивычислений calculation complication factor
+коэффициентудлиннения elongation
+коэффициентусиления gain
+коэффициентчередования interleaving
+край edge
+крайне extremely
+крайнеезначение extreme
+крайний extremal extreme ultimate
+крайность extreme
+красить paint
+краска paint
+краснаястрока centered line indented line paragraph break
+краткий short sketchy
+кратковременнаяпамять short-term memory
+кратковременный short-term brief
+краткосрочный short-term
+кратное multiple
+кратный multiple
+крах crash
+кремниевый silicon
+кремний silicon
+крест cross
+крестик obelisk
+крестообразный X-shaped
+кривая curve
+кривых curve generator
+кривизна flexion flexure
+криволинейный curvilineal curvilinear
+кривой curved
+криогенный cryogenic
+криоэлектроника cryoelectronics
+кристалл crystal XTAL xtal
+кристаллизация crystallize
+кристаллит crystal grain
+кристаллический crystal
+критерий criterion
+критический critical crucial unrecoverable
+критическийотказ fatal failure
+круг circle
+круглый round
+круговаяошибка circular error
+круговой circular
+кружение spinning
+кружить spin
+крышка cover
+крючок hook
+ксерограф xerograph
+ксерографирование xerography
+ксерокопия xerocopy xerox copy
+куб cube solid square
+кубический cube cubic
+кубоид cuboid
+кулер cooler
+кумулятивный cumulated cumulative
+кумуляция cumulation
+курсив italic type italics
+курсивный oblique italic
+курсор cursor pointer
+куча heap
+кэширование caching
+кэшированный cached
+лабораторный laboratory
+лазер laser
+лазерный laser
+лассо lasso
+ластик eraser
+левый left
+легенда legend
+легкий easy effortless
+легко easy
+легкопроверяемый easy-to-test
+легкость ease
+легкотестируемый easy-to-test
+лексикон lexicon
+лексический lexical
+лента tape
+ленточный tape
+лепестковыйлитероноситель daisywheel
+лигатура double letter ligature tied letter
+лидер leader
+лидировать lead
+ликвидация drop-out dropout eliminating
+ликвидированный dropped
+ликвидировать drop out eliminate
+ликвидирующий eliminating
+линейка ruler
+линейкаменю menu bar
+линейкапрокрутки scroll bar
+линейный linear line serial unidimensional
+линейныйалгоритм serial algorithm
+линейныйвход line-in jack
+линейныйграфик line chart
+линейныйдрайвер line driver
+линейныйтерминал line terminal unit
+линия line
+лист sheet
+листаниестраниц moving the pages around
+листать turn the pages move the pages
+литера letter
+литерал literal
+литерация alphabetical rubrication
+литернаяцепочка string
+литерный lettered
+лифт scroll bar
+лицеваяпанель faceplate
+лицевой faceplate
+лицензионный licensed
+лицензия license
+лицензировать license
+личный personal private
+лишать
+лишний superfluous unnecessary extra
+ловушка hook trap
+логарифм logarithm
+логика logic
+логистика logistics
+логистический logistic
+логическаяошибка logic error algorithm error
+логический logic
+логическое «И» logical «AND»
+логическое «ИЛИ» logical «OR»
+логическоесложение logical «OR» disjunction
+логическоесоединение virtual connection
+логическоеумножение logical multiplication logical «AND» conjunction
+логическоеустройство logical device logical unit
+логичность logic
+логичный logical
+лого logo
+логотип logotype
+ложность falsity
+ложный wrong false
+ложныйшаг false step
+локализация localization
+локализацияошибки error localization fault localization
+локальный local
+локальнаяпамять local memory
+ломанная polyline broken line
+ломать destroy broke crack
+лупа zoom-and-pan zoom
+луч ray
+лэптоп laptop
+любой any
+ляп kludge
+магазин stack
+магистральный backbone long-distance
+магнитный magnetic
+магнитооптический magneto-optical
+магнитофон tape-recorder
+мазок stroke
+макет layout make-up dummy
+макетирование layout piloting
+макетстраницы page layout greek text
+макро- macro-
+макроассемблер macro assembler
+макробиблиотека macro definition library
+макровирус macro virus
+макровызов maro call
+макрогенератор macro generator
+макрогенерация macro generation
+макрокоманда macro macroinstruction macrocommand
+макроопределение macro declaration macro definition
+макропараметр macro parameter
+макроподстановка macro generation
+макропрограмма macro program
+макропрограммирование macro programming
+макропроцессор macro processor macro generator
+макрорасширение macro expansion
+макрос macros
+макросредства macro facility
+макроязык macro language
+макси maxi
+максимакс maximax
+максимальнаявысотавращения maximum rotated height
+максимальный maximum peak
+максимально maximally
+максимизация maximization
+максимин maximin
+максимум maximum
+малаяцифроваяклавиатура numeric keypad
+малоэффективный ineffective
+малый small
+манипулирование manipulation
+манипулировать manipulate
+манипулятор manipulator
+манипуляция manipulation
+мантисса fractional part
+манчестерскоекодирование manchester encoding
+маркер marker mark token
+маркерадреса address mark
+маркернаякольцеваясеть token ring network
+маркернаяшина token bus
+маркернаясеть token network
+маркерноекольцо token ring
+маркерный marker token
+маркированный tagged
+маркировать tag
+маркировка labeling
+маршрут rout path
+маршрутизатор router
+маршрутизация route routing
+маршрутный routing
+маска mask
+массив array
+массивинформации array of information
+массивклеток cell array
+массоваяпамять mass storage
+массовый mass
+мастер master wizard
+масштаб scale zoom box crop cropping
+масштабирование zoom zooming sizing picture scaling
+масштабируемость scalability
+масштабируемый scalable
+масштабныймножитель scale factor
+масштабприращения scale of increments
+масштабшаблона scale for pattern
+математика mathematics math
+математически mathematically
+математический mathematic math
+математическийсопроцессор math coprocessor mathematical coprocessor floating-point processor
+матирование matting
+матировать mat
+матовый mat
+матричный array
+матрица matrix array
+машина machine engine machine computer
+машинапоиска search engine
+машиннаякоманда computer instruction
+машиннаяоперация computer operation
+машиннаяпрограмма computer program machine program
+машиннаяпамять computer memory
+машинноевремя computer time machine time
+машинноемоделирование computer-aided engineering computer modeling computer simulation
+машинноеслово computer word machine word
+машинный machine computer
+машинныйадрес machine address
+машинныйинтеллект machine intellegence
+машинныйкод machine code absolute code
+машинныйноль computer zero
+машинныйперевод machine translation
+машинныйсбой failure mulfunction
+машинныйязык machine language computer language
+машинозависимый computer-sensible machihe-associated machine-dependent
+машинозависимыйкод machine-dependent code
+машинозависимыйязык computer-sensible language
+машинонезависимый machihe-independent portable computer-independent
+машиночитаемый machine readable
+мгновенно instantly in a trice
+мгновенный instantaneous zero momentary
+мегабайт magabyte
+мегабит megabit
+мегагерц magahertz
+мегафлопс megaFLOPS megaflops
+медленный slow
+медлить be slow delay
+межбуквенныйпробел inter-character
+между between
+международный international
+международныйкоординатор international coordinator
+межинтервальныйобмен time slot interchange
+межмодульнаяссылка inter modular reference external reference
+межпроцессорный interprocessor
+межпроцессорныйбуфер interprocessor buffer
+межсегментныйвызов far call
+межсетевоевзаимодействие internetworking
+межсетевой gateway internet
+межсетевойадрес internet address Internet address
+межсистемный intersystem
+межстрочныйинтервал line space leading interlinear blank inter-line interlinear space
+мейлер mailer
+мэйнфрейм mainframe
+мелкийшрифт fine print
+мембраннаяклавиатура membrane keyboard
+менеджер manager
+менеджерграфическойсреды graphics environment manager
+менеджерпечати print manager
+меню menu
+менюбыстроговызова shortcut menu
+менювосстановленияфайла unerase menu
+менювызова call menu
+менять change
+меняться change exchange
+мера measure measuring gauge
+мертваязона dead space dead-spot
+мерцание blink blinking flicker
+мерцать blink flicker
+мерцающий blinking
+местный local
+место place point
+местонахождение location
+метакомпьютер metacomputer
+метакомпьютинг metacomputing
+метафайл meta file metafile
+метка label mark guide-mark guidelone tag
+меткаадреса address mark
+метод method manner
+методдоступа access method access technique
+методкласса class method
+методподбора trial and error method
+методпробиошибок trial and error method
+методфрактальногосжатия fractal image compression
+меточнаязащитасекретности labeled security protection
+меточный labeled
+метрика metric
+механизация mechanization
+механизировать mechanize robotize
+механизм mechanism engine gear
+механический mechanical
+мешать embarrass encumber hinder
+мешающий impedient
+мигание flashing blink blinking
+мигающаявертикальнаячерта flashing vertical bar
+мигающий blink blinking
+миграция migration
+мигрировать migrate
+миди midi
+мики mickey
+микро- micro-
+микроволновый micro wave microwave
+микрограф micrograph
+микрография micrography micrographics
+микродюйм microinch
+микроиздание micropublication
+микрокалькулятор calculator
+микроканал micro channel
+микрокарта microcard
+микрокассета microcassette
+микрокоманда microinstruction microcode
+микрокомпьютер microcomputer
+микрокопирование microphotography micro-copying
+микромодуль micromodule
+микрон micron
+микроноситель microform
+микропечать microprint
+микропленка microfilm
+микропрограмма micro program microprogram microcode
+микропрограммирование microprogramming microcoding
+микропрограммный micro program
+микропроцессор microprocessor 
+микропубликация micropublication
+микросегментация microsegmentation
+микросекунда microsecond
+микросмещение microspacing
+микроснимок micrograph
+микроскопический micro
+микросхема chip microcircuit
+микросхемотехника microcircuity
+микротерминал microterminal
+микротехнология microfabrication microtechnology
+микрофильм microfilm microcopy
+микрофильмирование micrography micrographics microphotography micro-coping
+микрофильмированный microfilm
+микрофиша microfiche fiche film card
+микрофон microphone
+микроформа microform
+микрофотография micrographics microphotography
+микрофотокопирование micrographics
+микрофотокопия microfilm
+микроЭВМ micro computer
+микроэлектроника microelectronics integrated electronic
+миллион million
+миллисекунда millisecond
+мини mini
+миниатюра thumbnail
+миниатюрныйприбор microdevice
+минимакс minimax
+минимальный minimum floor
+минимум minimum
+минисохранение mini-save
+минус minus
+минута minute
+миссия mission
+мнемонический mnemonic
+мнимоечисло imaginary number
+мнимый imaginary quasi
+много many much multi
+многоабонентскаялиния multi-drop
+многоадреснаякоманда multiple address instruction
+многоадреснаяссылка multicast
+многоадресный multiple address multiple-address
+многоадресныйвызов multi-address calling
+многоаспектнаястолбиковаядиаграмма multiple bar chart
+многоаспектность multidimensionality
+многодокументный multi-documental multiple document
+многодокументныйинтерфейс multi-documental interface
+многозадачнаяоперационнаясистема multitasking operating system
+многозадачность multitask multitasking 
+многозадачный multitasking
+многозадачныйрежим multiprogramming multitasking multitasking options
+многозначноечисло multidigit number
+многозначный multiple-valued multidigit
+многоканальный multi-channel
+многоканальныйинтерфейсныйдрайвер multiple link interface driver
+многокрасочность multicolor
+многокрасочный multicolor
+многократно repeatedly
+многократный frequentative multiple repeated
+многомашиннаясистема multicomputer system
+многомашинный multiple computer
+многомашинныйвычислительныйкомплекс multiple computer complex
+многомерность multidimensionality
+многомерный multidimensional
+многомерныймассив multidimensional array
+многообразие diversity
+многообразный multiform
+многоплатформный multiplatform
+многопользовательский multiuser
+многопортовый multiport
+многопоточность multithreading
+многопоточный multithreaded
+многопрофильный multilateral
+многопроцессорнаясистема multiprocession system multiprocessor
+многопроцессорнаяЭВМ multiprocessor computer
+многопроцессорность multiprocessing
+многопроцессорный multiprocessor
+многоразрядный multidigit
+многорежимный multimode
+многосеансоваязапись multisession recording
+многосеансовыйдиск multisession disk
+многосессионнаязапись multisession recording
+многосессионныйдиск multisession disk
+многосервернаясеть multiserver network
+многосетевойфайловыйсервер multiple-network file server
+многосторонняятелеконференция multipoint teleconference
+многоступенчатаясистема cascade system
+многотерминальнаяадресация multiterminal addressing
+многоточие dots
+многоугольник polygon
+многоуровневаяархитектура layered architecture multi-tiered architecture
+многоуровневый cascading layered
+многофункциональноепериферийноеустройство multifunctional peripheral
+многофункциональный multifunctional
+многофункциональныймодуль multifunctional module
+многоцветность multicolor
+многоцветный color multicolor polychrome
+многоцветныйпринтер color printer
+многоцелеваяЭВМ multi-application computer
+многоцелевой miltipurpose multi-application
+многочастотныймонитор multiscan
+многочисленный multiple numerous
+многочлен polynomial multinomial
+многочленный multinomial
+многошаговый cascading
+многошрифтовый multifont
+многоэкранный multiscreen
+множественнаязагрузка multiple boot configuration
+множественноенаследование multiple inheritance
+множественный multiple
+множественныйдоступ multiple access
+множество set
+множимое icand multiplicand
+множитель multiple multiplier ier factor
+множить multiply
+мобильность mobility portability
+мобильный mobile
+модальный modal
+моделирование formation modeling simulation
+моделировать model design
+моделирующий analog
+модель model
+модем modem
+модернизация upgrade
+модернизированный enhanced upgraded
+модернизировать enhance upgrade
+модификатор modifier modificative
+модификация modification revision variant
+модифицированный modified
+модифицировать modify adjust
+модифицируемый modifiable
+модифицирующий modificative modificatory
+модулировать module
+модуль module modulus
+модульнагрузкиэлемента element load module
+модульнаясетка grid setting grid snap
+модульноепрограммирование modular programming
+модульность modularity
+модульный modular
+модульныйблок modular block
+модульсбораданных data acquisition module
+модульпамяти memory module
+модульподборацветов image color matcher
+модулятор modulator
+модуляция modulation
+модуляциячастоты frequency modulation
+мозаика stained glass tile
+мозаичный tiled
+моментальный snap
+монитор monitor
+мониторинг monitoring
+моно- mono-
+моноид monoid
+монограмма branch graph
+монокристаллический single-crystal
+монокристаллическийстержень single-crystal rod
+монокристаллическийслиток single-cristal ingot
+монопольноевыполнение exclusive execution
+монопольный exclusive
+монохромный monochrome monochromatic
+монохромныйдисплей black and white display monochrome display
+монохромноеизображение monochrome image
+монохромность monochromaticism
+моноширинный fixed spacing monospacing
+моноширинныйшрифт fixed width font
+монтажнаясхема hookup
+монтировать fit hook up mount
+морфинг morphing morph
+мост bridge
+мощность power capacity
+мощностьмножества cardinal number cardinal of set
+мощный forceful high-powered
+муар moire
+музыка music
+музыкальный music
+мультимедиа multimedia
+мультимедийный multimedia
+мультиплексор multiplexer
+мультиплексирование multiplexing
+мультипликация animation
+мультипрограммирование multiprogramming
+мультипроцессор multiprocessor
+мультипроцессорная ЭВМ multiprocessor computer
+мультипроцессорный multiprocessor
+мультисинк multisync
+мультисканирующий multiscan
+мышь mouse
+мэппинг mapping
+мягкий soft graceful
+наблюдаемость observability
+наблюдатель observer supervisor
+наблюдать observe watch supervise
+наблюдающий supervisory supervisor
+наблюдение observation supervision
+набор kit set
+набросок thumbnail
+наверх up
+наверху above
+навигатор navigator
+навигация navigation
+наводнение flood
+нагрузка load
+надежность reliability safety
+надежный fail-safe reliable robust
+надстройка add-on program add-on module plug-in
+надстройкаоболочки shell extension
+надчеркивание overscore
+нажатие pressing
+нажим pressure
+нажимающий pressing
+назад back backwards
+название name
+назватьсм.
+назначать appoint assign designate destinate
+назначение assignation assignement designation nomination
+назначенный appointed destined named
+называние denomination nomination
+называть denominate name
+называться be called be named
+наиболее the most
+наибольший the largest the greatest
+наименование name denomination
+наименьший least lowest
+наименьшийзначащийсимвол least significant character
+наименьшийобщийзнаменатель lowest common denominator lowest common multiple
+найденный found
+накапливающий accumulator
+наклон skew
+наклонный oblique
+накопитель tank
+накопить amass
+накопление cumulation accumulation
+накопленный cumulative
+налево to the left
+наличие presence occurrence
+наличествующий present
+наложение overlay overlaying
+наносекунда nanosecond
+напечатанный printed
+напечатать print
+наплыв zooming wipe
+наполовину half
+напоминание mention reminder
+направление direction
+направленный directional purposeful
+направляющий directive
+направо to the right
+напряжение tension
+нарастание increase growth
+нарастать increase
+наращиваемый stockable
+наращивание increase upgrading
+наращивать upgrade
+нарисованный painted
+нарисовать paint
+наружноеполе outside margin
+наружный external outer outlying outside
+нарушающий disturbant
+нарушение violation disturbance disturbing
+нарушенный distorted disturbed faulted disordered
+нарушитель intruder
+наследование inheritance
+настольный desk desktop table
+настраиваемый adaptable custom
+настройка relocation configure customization tuning setting setup
+настройкаадресов address relocation
+настройкадисплея display setting
+настройкапрограммы program setting
+насыщенность saturation
+натуральный natural
+натяжение pull
+наука science
+научный scientific
+находка find discovery
+начало beginning start start-up starting origin home
+началоленты beginning of tape
+начальнаябуква initial
+начальнаязагрузка boot bootstrap boot up initial program load
+начальноезначение initial value
+начальноеусловие initial condition entry condition
+начальный beginning openning home initial
+начальныйблок home block
+начальныйзагрузчик bootstrap loader initial program loader
+начертание outline outward shape
+начертаниешрифта font style type style design of typeface
+начертить draw
+начинающий strat-up
+неадаптированный unadapted
+неадресованный undirected unaddressed
+неадресуемый non-addressable
+неактивнаяпрограмма inactive program
+неактивноеокно inactive window
+неактивный inactive
+неаннулированный uncancelled
+небрежный neglectful
+неважный insignificant unimportant
+невернаякомбинацияпараметров invalid combination of parameters
+неверно incorrectly
+неверноечислопараметров incorrect number of parameters
+неверный bad wrong false incorrect invalid
+неверныйпараметр incorrect parameter invalid argument
+невидимый hidden invisible
+невидимыйобъект mute object
+невнимательный neglectful
+невозможно impossibly
+невозможность impossibility
+невозможный impossible
+невосстановимый unrecoverable
+невыбранный nonselected
+невыделенный unstressed
+невыполнимость impractibility impossibility
+невыполнимый impossible undoable unachievable
+невыполняемый non-executable
+невыполняемыйоператор non-executable statement
+негарантированный unreliable
+негативный negative
+негибкий inflexible
+негодность unfitness
+негодный useless unfit unsuitable
+неготовность unavailability
+недавний recent
+недавно recently
+недатированный dateless
+недействительный null invalid
+неделимое indivisible
+неделимость indivisibility
+неделимый indivisible
+недиалоговаяутилита command line utility
+недолговременный short-term
+недоказанный unproved
+недолгий brief short
+недопустимаядиректива illegal directive
+недопустимый illegal unavailable forbidden invalid unallowable
+недопустимыйвызовфункции illegal function call
+недопустимыйсимвол illegal character illegal symbol
+недоработанный bletcherous
+недостаток deficiency deficit disadvantage
+недостаточно deficiently insufficient
+недостаточность paucity insufficiency
+недостаточный insufficient low
+недостающий missing
+недостижимый unattainable
+недоступный not available inaccessible
+незавершенный incomplete unclosed
+независимость independence
+независимостьприложений application independence
+независимый independent
+незагруженный unloaded
+незакодированный uncodified
+незаконность illegality
+незаконный illegal unauthorized
+незаконченный unclosed undone incomplete unfinished
+незаменимый indispensible irreplaceable
+незамеченный unmarked
+незанятый idle vacant unoccupied
+незаполненный blank empty
+незашифрованный uncodified
+незащищенный unprotected unscreened
+незначительный insignificant low
+неизвестный unknown
+неизменный fixed
+неизменяемый unaltered read only read-only
+неиндексированный unindexed
+неисполнение failure to carry out
+неисполнимый impracticable
+неиспользование non-use
+неиспользованный unused
+неисправимый fatal incorrigible irreparable
+неисправленнаяошибка uncorrected error
+неисправленный uncorrected
+неисправность failure fault disease
+неисправный bad out of order deffective
+неисчислимый innumerable numberless
+нейтрализация counteraction neutralization
+нейтрализующий counteractive
+некачественный low-quality
+неквалифицированный unskilled
+неклассифицированный unclassified
+некомпетентный not competent unqualified
+некорректный incorrect
+некорректныйдоступ incorrect access
+нелегальность illegality
+нелегальный illegal
+нелинейноепрограммирование non-linear programming
+нелинейный non-linear
+нелинейныйпроцессор non-linear processor
+нелогичный illogical
+немаркированный unmarked
+немедленно directly immediately
+немедленноевыполнение direct execution
+немедленноесжатие immediate compress
+немедленный immediate
+немодальнаяпанельдиалога modeless dialog box
+немодальный non modal modeless
+ненадежность equivocation
+ненадежный fallible unreliable
+ненаправленный undirected
+ненормальность abnormality
+ненормальный abnormal
+ненужный needless unnecessary
+ненумерованный unnumbered
+необоснованный baseless unfounded
+необработанный raw
+необходимость need
+необходимый necessary required requisite
+необъяснимый inexplicable
+необычный unusual
+необязательный optional
+неограниченный unlimited
+неоднозначный multiple-valued
+неоднократно repeatedly
+неоднократный repeated
+неожиданно unexpectedly
+неожиданный unexpected sudden
+неоконноеобращение non-windows application
+неоконноеприменение non-windows application
+неоконнный non-windows
+неоконченный unfinished
+неоплаченный unpaid
+неопознаннаякоманда unrecognized command
+неопознанноепечатающееустройство unrecognized printer
+неопознанный unrecognized unidentified
+неопознанныйключ unrecognized switch
+неопознанныйпортпринтера unrecognized printer port
+неопределеннаяфункцияпользователя undefined user function
+неопределенный indefinite undefined undetermined unrecognizable
+неоснащенный unequipped
+неосновной secondary
+неосновнойключ secondary key
+неосторожный careless
+неосуществимый impracticable
+неотложный urgent
+неотмененный uncancelled
+неотмеченный unmarked
+неотобранный unselected
+неотождествленный unidentified
+неофициальный unauthorized
+непереводимый untranslatable
+неперемещаемый unremovable unmovable
+неперемещаемыйблок unmovable block
+непересекающийся disjoint
+непечатаемый nonprintable nonprinting unprintable
+непечатаемыйсимвол nonprintable character unprintable character
+неподвижно motionless still
+неподвижный fixed stationary immobile
+неподготовленный unequipped
+неподключенный off-line
+неподходящаяверсия incorrect version
+неподходящий improper incorrect unfit unfitted unfitting unsuitable
+неподчеркнутый unstressed
+непозволительный unallowable
+неполадки defects
+неполно deficiently
+неполнота incomplete
+неполнотаадреса address incomplete
+неполный incomplete deficient fractional partial
+неположительный nonpositive
+непорядок disorder
+непоследовательный inconsistent
+непосредственнаяадресация immediate addressing indirect addressing
+непосредственно directly immediately
+непосредственноевоздействие direct manipulation
+непосредственный immediate direct
+непосредственныйоперанд immediate operand immediate data zero-level address
+непостоянный changeable soft
+непостоянство variability
+неправильнаяспецификацияфлага illegal banner specification
+неправильно incorrectly faultily
+неправильный bad incorrect invalid
+format reading
+непредвиденный unexpected
+непредсказуемый unpredictable
+непредусмотренный unforeseen
+непрерывность continuance continuity
+непрерывный continuous continual uninterrupted permanent
+непрерывныйсигнал continuous signal
+непрерывныйфайл contiguous file
+непривилегированный unauthorized
+непригодность unfitness
+непригодный unfit unfitted unuseable
+неприемлемый not applicable unacceptable unadmissible
+неприкрепленный unfixed
+неприменение non-use
+неприменимый inapplicable
+неприспособленный unadapted
+непроверенный unverified
+непрограммируемый unprogrammed non-programmable
+непродолжительный short brief
+непродуманнаяпрограмма ill-conceived program
+непродуманный ill-conceived ill-considered
+непрозрачность opacity
+непрозрачный opaque
+непронумерованный unnumbered
+непропорциональность disproportion
+непропорциональный disproportionate
+непрочитанный unread
+непрочность destructibility
+непрочный destructible
+непрямой indirect
+неработающий idle
+неработоспособный abnormal
+неравенство inequality inequation
+неравный unequal
+неразделимый indivisible
+нераздельность indivisibility
+неразделяемый non-shareable
+неразрешенный illegal unauthorized unsolved
+неразрешимый insoluble
+неразрывный indissoluble nonbreaking
+неразрывныйпробел nonbreaking space
+нераспределенный unallocated
+нерд nerd
+нерезидентный loadable transient
+нерезкий blur
+нерезкость blur
+нерешенный unsolved
+неровность jaggies
+несанкционированный illegal unauthorized
+несанкционированныйдоступ illegal access unauthorized access
+несбалансированнаялиния unbalanced line
+несбалансированный unbalanced
+несвойственный non characteristic
+несегментированный flat
+несекретный unclassified
+несимметричноешифрование open key encryption open key enciphering
+несимметричный assymetrical
+несинхронизированный out-of-step
+несинхронный non-synchronous
+несистематизированный unsystematized
+несистематическаяошибка random error
+несистематический unsystematic random
+несложный simple
+несмонтированнаяплата bare board
+несмонтированный bare
+несоблюдение non-observance infringement
+несовместимость incompatibility
+несовместимый incompatible
+несовмещенный dedicated
+несовпадение mismatch
+несогласованность lack of coordination
+несогласованный uncoordinated
+несоотвествие disagreement discord discrepancy imbalance mismatch
+несоответствиепараметров parameter mismatch
+несоответствующий insufficient unsuitable
+несоставной prime
+неспециализированный general unspecialized
+неспециальный general
+неспособность inability non-ability
+неспособный unable
+нестабильность instability
+нестабильный unstable
+нестандартный non-standard non-typical irregular
+нестираемаяпамять permanent storage
+неструктурированный unstructured
+неточность inaccuracy error
+неточный inaccurate inexact
+неудаляемый unremovable
+неудача failure failing fail ill luck no-go
+неудовлетворительный insufficient
+неуказанный unlisted unpointed
+неупакованноедесятичноечисло external decimal
+неупакованный unpacked
+неупорядоченный unsystematic unregulated
+неупорядоченныйязык free language
+неустойчивостьизображения bouncing
+неустойчивый changeable unstable
+неустранимаяошибкавпрограмме unrecoverable application error
+неустранимый critical unrecoverable
+неформатированный nonformatted unformatted
+нехватка deficit paucity
+нехваткаданных out-of-data
+нецветноеизображение monochrome
+нечеткаялогика fuzzy logic
+нечеткий fuzzy blur
+нечетный odd uneven
+неэффективный effectless ineffective
+неявный implicit
+неясный fuzzy
+ниже below lower
+нижеприведенный below
+нижний bottom low
+низ bottom lower part
+низкий low
+низкийуровень low level
+низкоприоритетный background
+низкоскоростной low speed
+низкоуровневый low-level
+низший bottom minor low
+низшийприоритет bottom priority
+ниспадающееокно drop-down list box
+нисходящееменю pulldown menu
+нисходящеепрограммирование top-down programming
+нисходящий top-down descending
+ничто nothing blank
+новейший newest
+новость news
+новый new
+новыйпароль new password
+новыйслой new layer
+новыйфайл new file
+ноль zero nought
+номенклатура nomenclature
+номенклатурный nomenclatural
+номер number
+номеронабиратель phone dialer
+номершрифта font number
+номинация nomination
+номограмма nomogram
+норма norm standard
+нормализация normalization standardization
+нормализованнаябазаданных normalized database
+нормализованный normalized
+нормальный norm normal standard
+нормальныйвид normal view
+носитель carrier media type
+носительданных storage media data medium data carrier
+нотация notation
+ноутбук notebook
+нуждаться need
+нужный necessary needed
+нулеваяотметка grade level
+нулевой zero null zeroth
+нуль zero null nought
+нумератор numerator
+нумерация count numbering numeration
+нумерование numbering
+нумерованный numbered
+нумеровать number
+нумеруемый numerable
+о about
+обвертка wrapping
+обводка outline
+обводной runaround
+обзор overlook view walkover
+обезопасить safe
+обелиск obelisk
+обеспечение providing provision
+обеспеченный provided
+обесточивание de-energization
+область area region field frame
+областьвырезания clipping region
+областьданных data area data domain
+областьопределения definitional domain
+областьотношения domain of a relation
+областьизображения image area
+областьпамяти storage area extent
+обмен exchange interchange swap swapping
+данными automatic data exchange
+обнаружение detection finding
+обнаружениеошибок fault detection fault finding
+обнаруженный detected
+обнаруживаемый detectable
+обнаружимый detactable
+обновление refresh update
+обновленный renewed
+обновляемый refreshable
+обновлять update upgrade re-anchor refresh renew
+обнуление zero filling zeroing
+o
+обобщение aggregation
+обобщенныеклассы generic classes
+обобщенный generalized generic
+обобщенныйпоиск generic search
+обозначать denominate mark
+обозначающий designative
+обозначение denotation denomination designation
+обои wallpaper
+обойма yoke
+оболочка hull slip
+оборка runaround
+оборудование equipment facilities fit-out
+оборудованный fitted
+оборудовать equip
+обоснование substantiation grounds reasons
+обоснованный well-founded reasoned substantiated
+обрабатывающий processing
+обработанный processed
+обработка handling processing
+обработказапроса activity query processing demand processing
+обработкаизображений image processing
+обработкаинформации information processing data processing
+обработкаполутонов half-toning shading
+обработкапрерываний interrupt processing event trapping
+обработкафайла file processing
+обработчик handler
+обработчикпрерываний interrupt handler
+образ icon image
+образзадачи task image
+образец example pattern sample sampling
+образование education
+образованный generated
+образовательный educational
+образующая generatrix
+обрамлять frame
+обратимый reversible convertible
+обратно back backwards
+обратный back backward dual contrary converse reverse reversed inverse
+обратныйвызов call back
+обращение access call
+обрез edge
+обрезка crop cropping
+обусловленный conditioned
+обслуживание service maintaining maintenance
+обслуживать maintain serve
+обслуживающеесообщение attendance message
+обслуживающий service maintaining
+обтекающий runaround
+обсуждение discussion conversation
+обучать educate instruct
+обучающаяпрограмма educational program
+обучающий learning tutorial
+обучение learning education
+обученный educated
+обход bypass
+обширный spacious
+общаяпамять common memory general memory global memory
+общаяпапка shared folder public folder
+общаяподдержкакоммуникаций common communications support
+общедоступный public
+общепринятый conventional general
+общепринятыйстандарт working standard
+общиезадачи common solution
+общиеприложения column applications
+общий general generic
+общийкомплекткоманд common command set
+общиймножитель common multiple
+общийпринтер shared printer network printer
+общийпротокол common protocol
+общийресурс shared resource sharing
+общийсброс general reset
+общийформатобъектныхфайлов common object file format
+объединение union collection mixing
+объединенный conjoint conjunct collated united unified
+объединяющий merging unitive
+объект object
+объектная ЭВМ object computer
+объектный object
+объектныйкод compiled code object code
+объектныйфайл object file
+объектныйязык object language
+объектпрограммы program object
+объем capacity volume
+объембазыданных database capacity
+объемданных data size
+объемноевоспроизведение volume rendering
+объемноемоделирование solid modeling
+объемный three-dimensional three-D volume
+объемпамяти capacity
+объявление advertisement declaration notice
+объявлять assign declare
+объяснение explanation explication
+объяснимый explainable explicable
+объяснительный explanative explanatory
+обычай habit
+обычнаяошибка general failure
+обычный common general conventional
+обязанность duty
+обязательный obligatory required
+обязательныйпараметр required parameter
+обязывать obligue enjoin
+овал oval
+оверлей overlay
+оверлейный overlay
+огибающая envelope
+оглавление contents
+ограничение restricrion constrain constriction narrowing limitation
+ограниченный bounded constricted restricted finite
+ограничиваться limit be limited to
+ограничивающаярамка bounding box
+ограничивающий bounding
+ограничитель delimiter
+ограничительный restrictive
+одиннидцатиугольник undecagon
+одинарный single
+одиночный single
+одно- mono-
+одноадресныйкод single-address code
+одновременнаяработа concurrent operation
+одновременно simultaneously
+одновременность simultaneity
+одновременный concurrent conjoined contemporary simultaneous
+однозадачный one task
+однозначный simple one-digit
+одноканальныймодем single channel modem
+одноканальный single channel
+однократный single
+однокристальный single chip single-chip
+однокристальныймодуль single chip module
+однокристальныйпроцессор single chip processor
+одномерный one-dimensional unidimensional
+одномерныймассив one-dimensional array
+однонаправленный unidirectional
+одноплатнаяЭВМ single-board computer
+однополярный unipolar
+однопроцессорный single-processor
+однородный solid uniform
+односторонняясвязь one-way link
+односторонний one-sided unilaterial one-way
+однотипный of the same type
+одноуровневаябазаданных flat-file database
+одноуровневый flat
+одноцветный concolor one-colored monochromatic monochrome solid color only
+одночиповый single chip single-chip
+одночиповыймодуль single chip module
+одночиповыйпроцессор single chip processor
+одночлен monomial
+одночленный monomial
+ожидаемый expected
+ожидание awaiting wait waiting idle sleep
+ожидать expect wait
+ожидающийвызов call waiting
+озаглавленный titled
+означать mean
+окантовка border
+окончить end finish
+окно window box 
+окногруппы group window
+окноприложения application window
+окносистемныхсообщений system modal window system modal message box
+окносообщения message box message window
+окносписка list box
+окноспискафайлов file list box
+около about
+оконечный terminal terminating end
+оконнаяпроцедура window procedure
+оконноеобращение windows application
+оконноеприменение windows application
+оконный window
+оконтурирование trace contour
+окончание end termination
+окончаниесрока expiry
+окончательно decisively definitely finally
+окончательный decisive definitive final complete
+оконченный ended
+окончить terminate end
+окружение environment
+окружность circumference
+округленный rounded
+округлять round
+октант octant
+октет octet
+опасно dangerously
+опасность danger threat
+опасный dangerous
+опекун trustee
+опекунский trustee
+операнд operand
+оперативнаяобработкатранзакций on-line transaction processing
+оперативнаяпамять main memory main storage core memory core storage
+оперативноеменю shortcut menu
+оперативный on-line online shortcut
+оперативныйрежим foreground mode
+оператор operator statement
+операторбезусловногоперехода imperative GO TO statement
+операторввода input statement
+операторвозврата return statement
+операторвыбора case switch
+операторперехода GO TO statement
+операторприсваивания assignement statement
+операторпроцедуры procedure statement
+операторсети network operator
+операторусловногоперехода conditional GO TO statement
+операторформата format statement
+оператор ЭВМ operator
+операторный statement
+операционнаясреда environment
+операционноеуправление activity-based management
+операционный operation operational
+операция operation
+операциясравнения relational operator comparison operation
+операцияядра kernel operation
+опережающий forward
+описание declaration description specification
+описаниебазыданных database description
+описаниеданных data specification
+описаниезадания job description job definition
+описаниекласса class declaration
+описаниемассива array declaration
+описаниеметок label declaration
+описаниепеременной variable declaration
+описаниепроцедуры procedure declaration
+описаниетипа type declaration
+описаниефункции function declaration
+описаниеязыка language guide
+описанный circumscribed
+описатель declarator descriptor specifier
+описательный descriptive
+оплаченный paid
+оповещение notification
+опоздание lateness delay
+опознавание identification
+опознавательный distinguishing
+опознавательныйзнак identification mark landmark
+опознание identification
+опознанный recognized
+опорнаялиния baseline base line
+опорный anchor support supporting
+определение definition declaration
+определениеданных data definition
+определениесимвола character definition
+определениетипа type declaration
+определенно definitely
+определенность definiteness
+определенный defined definite
+определитель finder qualifier
+опрашивать poll
+опрос polling
+оптимальный optimal
+оптимизатор optimizer
+оптимизация optimization
+отптимизированный smooth
+оптимизирующий optimizing
+оптический optical optic
+опускающийся pull-down
+опыт experience
+опытный experienced
+опять again
+органайзер organizer
+органиграмма
+организатор organizer
+организационный organization
+организация organization
+организованный organized
+ореол matte ghost
+оригинал manuscript origin oringinal
+ориентация orientation
+ориентациястраницы page orientation
+ориентир landmark
+ориентированный oriented
+ортосимметричный orthosymmetric
+орфографический spelling
+орфография spelling
+освещение lighting render
+освещенность luminosity
+освобождать dispose ease free empty unallocate
+освобождение V-operation
+освобожденный free unallocated
+ослабление depression
+ослаблять extenuate de-emphasize ease
+оснащать equip
+оснащение equipment
+основа base framework fundamental principles
+основание base substrate reason
+основнаязадача master task
+основнаялиния baseline base line
+основнаяпамять main memory main storage
+основнаяпрограмма main program head program
+основной main major dominant fundamental base basic backbone primary
+основнойключ master key primary key
+особенно especially particularly
+особенность feature
+особенный special
+особо extra
+особый special
+оставаться remain
+останавливаться halt
+останов halt halting stop shutdown
+остановка break stop standstill suspend
+остановленныйпроцесс hibernating process
+остаток excess reminder residual
+осуществимый effectible
+осуществление effect implementation
+ось axis
+отбивкаснизу space below
+отбор selection
+ответ answer answering reply response
+ответственный minder
+отводить divert
+отдаленный distant remote
+отделение compartition detachment separation separating
+отделенный detached
+отдельный single
+отделяющий separating separatory
+отзывать call off
+oтказ abandonment fail failing failure
+отказоустойчиваясистема fail-safe system
+отказоустойчивость fault-tolerance fault tolerance
+отказоустойчивостьсистемы system fault tolerance
+отказоустойчивый tolerant fail-safe
+отказываться give up reject
+откат undo backtracking
+откачка preemption spill
+отклик response
+отклонение deviation diversion divergence divergency departure fluctuation
+отклонять divert reject
+отклоняться diverge
+отклоняющийся divergent
+отключать shut off switch off
+отключение logging off shutdown
+отключенный dead disabled
+открывать open
+открытие activation
+открытиефайла file activation
+открытоесвойствокласса public property
+открытый open opening unclosed active extensible unclassified
+открытыйдоступкбазамданных open database connectivity
+отладка debug debugging
+отладкапрограммы program debugging program checkout
+отладочнаяпрограмма debugging program debug driver
+отладчик debugger
+отлаженный debugged
+отличаться differ differentiate diverge
+отличие difference
+отличительный distinctive
+отложеннаязапись lazy write
+отложитьсм.
+отмена abandonment cancel effacement
+отменапересылки cancel transmission
+отменапечати print suppression
+пересылкутекста cancel text transfer
+отменяющий rescissory
+отметка flag guide-mark tagging
+отмечающий selecting
+отмеченный marked
+относительно relatively
+относительность relativity
+относительный relative relational
+отношение relation ratio
+отображаемый expanded
+отображение map reflection display
+отобранный selected
+отождествление identification
+отождествленный identified
+отождествлять identify
+отосланный sent
+отпечатанный printed
+отправитель sender
+отправка dispatch sending
+отражатель mirror
+отражать echo
+отражение image mirror bounce echoing
+отраженный echoic
+оттрегулированный regulated
+отрегулировать regulate
+отредактированный adjusted
+отредактировать adjust edit
+отрицательный negative
+отрицать deny
+отсек bay
+отсечение clipping scissoring wing windowing
+отслеживание tracing tracking
+отслеживающий tracing tracking
+отсоединение disconnection
+отсоединенный disconnected
+отсортированный sorted
+отсрочка prolongation
+отставание lag lagging behind
+отставать lag
+отступ indentation indent
+отсутствие deficiency missing
+отсутствиеименикоманды missing command name
+отсутствовать miss to be absent
+отсутствующий absent missing
+отсылать dispatch send
+отсылка dispatch
+оттенение tintage
+оттененный shadow shaded
+оттенок hue shade shading tint
+оттранслированный compiled
+оттранслировать compile
+отчет report
+отчетливый clear well-defined
+офис office
+офисный office
+оформитьсм.
+оформление appearance arrangement design format
+оформлениезнаков format character
+оформлениеколонтитула format running-head
+оформлениерамки format border
+оформлениесноски format footnote
+оформленный designed formatted
+охрана protection guard
+охранный security
+охранять safeguard guard protect
+оценка estimate estimator value
+оценочнаяфункция estimator evaluate function
+оцифрование digitalization
+очередность queue
+очередь queue waiting list
+очертание shape
+очистка clearance cleaning
+очисткадиска disk cleanup
+очисткапреобразований clear transformations
+ошибаться err fault mistake
+ошибка error bug failing fault mistake
+ошибкаадаптера adapter error
+ошибкаалгоритма algorithm error
+ошибкаввода entry error misentery
+ошибкаделениянануль divide by zero error
+ошибкапринтера printer error printer’s error
+ошибкапрограммы bug program error
+ошибкарасширенияпамяти expanded memory error
+ошибкасозданияфайла file creation error
+ошибкоустойчиваясистема fail-safe system
+ошибочно faultily incorrectly
+ошибочность fallibility
+ошибочный blundering fallible false incorrect faulty invalid mistaken
+пагинация pagination page numbering page breaking
+падать drop fall
+падающееменю drop-down menu
+падающий drop-down
+падение fall
+пайка pica
+пайп pipe
+пакет package pack packet batch package
+пакетдисков disk pack
+пакетзаданий job batch job deck
+пакетзапросапрерывания interrupt request package
+пакетировать pack
+пакетнаязагрузка batch loading
+пакетнаяобработка batch mixing batch processing
+пакетный batch packet
+палитра tool panel
+память memory store storage scratch
+памятьбольшогообъема high-capacity storage
+памятьбуферазагрузки load buffer memory
+памятьбуферасвязи communication buffer memory
+памятьмагазинноготипа FILO
+панель panel pane
+панорама pan
+панорамирование panning
+папка folder
+пара couple pair
+парабола parabola
+параграф paragraph
+парадокс paradox
+парадоксальный paradoxical
+параллелепипед parallelepiped
+параллелизм parallelism duplication
+параллелограмм parallelogram
+параллель parallel
+параллельнаяобработка parallel processing concurrent processing concurrent processes
+параллельнаяЭВМ parallel computer
+параллельноевключение paralleling
+параллельноевыполнение concurrent execution concurrent processes parallel processing
+параллельноепрограммирование concurrent programming
+параллельноесоединение connection in parallel parallel connection
+параллельный parallel
+параллельныйалгоритм parallel algorithm concurrent algorithm
+параллельныйинтерфейс parallel interface
+параллельныйпоиск parallel search
+параметр parameter option
+параметрцикла cycle parameter loop variable cycle index
+парковка landing
+парный even twin
+пароль password
+пассивный dead passive
+патрон socket
+пауза pause standstill wait gap
+первичный primary prime primitive
+первичныйдиск primary disk
+первичныйключ primary key master key
+первоисточник first hand
+первоначальный prime primary original
+первоочередной high-priority priority top-priority
+первый first
+первыйадрес first address
+перебой failure outage
+перебор search
+перевернутый reversed turned
+перевернутьсм.
+переверстка re-imposition reimposition
+перевод translation
+переводить translate
+переводчик translator
+перегрузка overload overloading congestion
+перегружать congest overload reset
+перегруженный congected
+передатчик transmitter
+передача transmission transfer communication
+передачапараметров argument passing parameter passing
+передачасообщений messages passing
+передачауправления control transfer branching jump
+передающий transmitting
+передвижение move navigation
+передвижной mobile
+передний frontier front
+передовой frontier
+перезагруженный reset
+перезагрузка reboot restart
+перезаписатьсм.
+перезапись rewrite rewriting overwriting override recirculation rerun
+перезаписывающийся rewritable
+перезапуск restart rerun
+переименование rename
+переключатель switch
+переключение switching shifting toggle
+перекодирование conversion
+перекодировка conversion
+перекос skew
+перекосить skew
+перекрашивать recolor
+перекрестие crossbar
+перекрещенный crossed
+перекрещиваться intersect
+перекрытие overlay
+перелистывание scrolling
+перемена change variation
+переменная variable
+переменный alternate variable transient
+перемешанный mixed
+перемешивание hashing
+перемещаемость relocatability transferability
+перемещаемый moveable movable
+перемещаемыйсегментпамяти moveable memory segment
+перемещающий shifting
+перемещение displacement moving move motion removal shift shifting transfer transferal
+перемещениекаталога directory moving removing
+перемещениефайла file moving
+перемещенный moved
+перемычка switch
+переназначение redirection
+перенесение transference removal
+перенос carry carry-over transfer transferal
+переносимость portability
+переносимый transferential
+переносной mobile portable
+переносстроки line folding
+переносфайла file moving
+перепагинация print repaginate
+перепечатка reprint reprinting
+переполнение overflow overrun
+переполненный congected full overcrowded
+переполнять congest
+перерыв break cease interval interruption dwell
+пересекать intersect
+пересекающий crossover secant
+пересекающийся concurrent
+пересеченный crossed
+пересмотр reviewing revise
+пересмотренный revised
+перестанавливать exchange
+перестановка derangement exchange swapping permutation trajection shift shifting
+перестановкабайтов byte swapping
+перестановочный commutative permutable
+перестроенный rebuilt
+пересчет recalculation
+пересылка transfer
+перетаскивание drag and drop drag dragging
+перетаскиваниеокнацеликом full screen drag and drop
+перехват interception
+перехватизмененияадреса changed address interception
+переход jump branch branching traject trajection transition
+переходник thunk
+переходноеустройство adapter
+переходный transient transitional transition
+перечень list enumeration
+перечеркнутый crossed
+перечисление enumeration
+перечисленный enumerated
+перечислимый enumerable
+перечисляющий enumerative
+перечитанный reread re-read
+перечитывать reread
+период period repetend
+периодическаядробь circulating decimal circulator repeater repeating decimal
+периодически periodically
+периодический repeating periodic
+периодичность regularity
+периферийнаяЭВМ satellite computer
+периферийноеустройство peripheral
+периферийный peripheral outlying
+периферия periphery
+перо stylus pen pen
+перпендикуляр perpendicular
+перпендикулярность perpendicularity
+перпендикулярный perpendicular
+персональный personal
+перспектива perspective opportunity outlook
+перспективный advanced perspective
+перфокарта card punched card
+перфокартныйтабулятор punch card tabulator
+перфолента punched tape punch tape
+перфоратор punch puncher
+перфораторщик puncher
+перфорация digit row punch punching
+перфорирование punching
+перфорированный punched
+перфорировать punch
+петабайт petabyte
+петля loop loopback
+печатаемый printing
+печатание printing
+печатать print space out
+печатающий printing print
+печатающийтерминал hard-copy terminal
+печатный print
+печатныйлист printer sheet
+печать print printing
+пик peak spike
+пиксел pixel
+пикселизация pixelization
+пиктограмма icon
+пилот pilot
+пипетка dropper
+пиратство piracy
+письмо letter massage
+питание power
+плавающий floating
+плавиться melt
+плавка melt
+плавление melt
+плавный smoth easy
+плазма plasm
+плазменный gas plasma plasma
+плазменныйдисплей gas plasma display plasma-panel display
+план plan design make-up
+планирование plan design scheming
+планировать plan schedule design
+планировщик scheduler scheming organizer planner
+планработы activities planner
+планшет tablet
+планшетный table
+пластина platen wafer
+плата board circuit board circuit card card
+платаинтерфейса interface card
+платапамяти memory board memory card
+платарасширения adapter add-on board
+платарасширенияпамяти memory expansion card
+платформа platform
+платформасбораданных data collection platform
+платформнаянезависимость platform independence cross-platform
+платформный platform
+плезиохроннаяцифроваяиерархия plesiochronous digital heirarchy
+плейер player
+пленка film
+плоский flat
+плоcкийкабель flat cable
+плоскиймонитор flat technology monitor
+плоскийфайл flat file
+плоскопанельныйдисплей flat-panel display
+плоскостнаядиаграмма area chart
+плокость plane isoplane
+плотно densely
+плотность density denseness compaction
+плотностьзаписи areal density packing density data density
+плотностьцилиндра cylinder density
+плотный compact dense tight
+плоттер plotter
+плохой bad bletcherous
+плохойчисловойпараметр bad numeric parameter
+площадь area space sqaure
+плюс plus advantage
+побайтовый byte
+побитовый bit-by-bit bit
+поверх over
+поверхностный superficial
+поверхность surface exteriority face
+повесить hang
+повисший dangling
+повлечь cause
+поворот rotation
+повреждение damage failure fault
+поврежденный bad disabled faulty
+поврежденныйсектор bad sector
+повтор repetition replication
+повторение repetition repete duplication iteration retry
+повторимый replicable
+повторитель repeater
+повторный duplicate repeated
+повторныйпуск restart rerun
+повторяемость repetition reiteration
+повторяющийся repeating circular
+повышенный enhanced
+поглощать merge
+пограничный boundary
+погрешность error delta
+подавление suppression
+подавляющий overwhelming
+подача feed feeding
+подблок internal block
+подбор selection assortment
+подвижность flexibility mobility
+подвижный flex flexible mobile
+подгонка fit fitting
+подготовительный preparative preparatory
+подготовка preparation
+подготовкатекста word processing
+подготовленный prepared fitted
+поддерживаемый maintained
+поддерживать support bear out maintain
+поддержка support maintaining maintenance
+подзаголовок crossheading subtitle sub-title undertitle
+подкаталог subdirectory sub-directory
+подкачка swapping paging
+подкласс subclass
+подключаемость connectivity
+подключаемый in-line
+подключение connection
+подключенный connected attached in-line on-line
+подключитьсм.
+подложка substrate wafer
+подменю submenu
+подмножество subset
+подобие similarity
+подобно like
+подобный similar parallel
+подокно pane
+подотдел subdivision
+подпапка subfolder
+подписчик subscriber
+подпись signature
+подпрограмма subroutine subprogram subprocedure
+подпространство subspace
+подраздел subsection
+подразделение subdivision
+подразделять sudivide
+подробный detailed
+подсветка backlight highlighting
+подсистема subsystem
+подсистемааналоговойЭВМ analog computer subsystem
+подсказка prompt help hint
+подсоединенный connected attached
+подставлять substitute
+подстановка substitution
+подстановочный substitution
+подстанция substation
+подсчет account accounting count counting
+подсчитанный calculated
+подсчитывать calculate count
+подсчитывающий enumerative accounting
+подтверждать acknowledge bear out confirm prove out
+подтверждающий confirmative
+подтверждение acknowledgement confirmation handshaking
+подтвержденный confirmed
+подходить fit match
+подходящий appropriate fitting favourable
+подчеркивание underlining underline emphasis
+подчеркивающаячерта flatworm
+подчеркнутый underlined
+подчинение subjection
+подчиненноеустройство slave device
+подчиненный minor slave satellitic satellite subject
+подчиняться obey
+позволение permission
+позволенный allowed
+позволять allow permit
+позволяющий permissive
+поздно late
+позже later
+позитив positive
+позитивный positive
+позиционирование positioning
+позиционнаясистемасчисления positional number system positional notation positional representation
+позиционный positional position
+позиция position
+позицияцифры position of number
+поиск seek look lookup search find finding retrieval retrieve retrieving
+поискданных data search
+поискдокумента document retrieval
+поисковаясистема search system search engine
+поисковик finder
+поисковый search retrieval retrieving
+поисковыйсервер search engine
+поискоформления format search
+поискфайла file search file find find file
+показ demonstration display show
+показатель factor indicator index exponent
+показательный demonstration exponential
+показывающий indicatory indicative
+поколение generation
+полагать consider
+поле field
+полеадреса address field destination field
+полеввода input field
+поледанных field
+полезность productiveness productivity
+полезный helpful productive
+полеидентификатораобычногоформата general format indentifier field
+полеключа key field
+полеопределения field of definition
+полеотношения field of relation
+полепамяти extent
+ползунок slider
+поли- poly-
+полиморфизм polymorphism
+полином polynomial multinomial
+политика policy
+политипаж clip-art clip art
+полихроматический polychrome
+полиэкранный multiscreen
+полнодуплексный full duplex
+полноесоставноеимя absolute pathname full pathname
+полноестирание full erase
+полнокрасочнаяпалитра full color pattern
+полномочие authorization right
+полностью fully completely
+полнота entire completeness depth
+полнотекстовый full-text
+полноэкранный full screen
+полноэкранныйдисплей full-page display
+полный full entire
+полныйвидеосигнал composite video
+полныйдвоичныйсумматор full binary adder
+полныйсумматор full adder
+полныйэкран full screen view
+половина half
+половинный half
+положение location position princilple
+положенный given appointed fixed
+положим let us assume supose
+положительно positively
+положительный positive
+поломка breaking damage
+полоса bar area band
+полуавтоматический semi-automatic
+полубайт nibble half-byte
+полугруппа monoid
+полудуплексный half-duplex
+полудуплексныйрежим half duplex half-duplex operation
+полужирный bold boldface
+полужирныйшрифт extended type
+полукруг semicircle
+полукруглый semicircular
+полулогарифмическоепредставлениечисел floating-point number representation
+полумост half-bridge
+полуоборот half-turn
+полуокружность semi-circumference
+полупрозрачный semitransparent
+полуслово half word
+полусумматор half-adder
+полутон halftone
+полутоновоеизображение continuous-tone image
+полутоновый halftone
+получатель receiver recipient
+получение acquisition gain receive reception
+полученный received
+пользование use
+пользователь user client customer real user
+пользовательский user custom
+помета mark note
+пометитьсм.
+пометка mark
+помеха encumbrance hinderance pullback impediment
+помеченный labeled marked tagged
+помеченныйблок labeled block
+помеченныйобщийблок labeled common
+помощник assistant auxiliary helper
+помощь help aid prompt
+понижающийся descending
+понижение fall lowering reduction depression
+пониженный degraded depressed
+понятие concept conception
+попадание hit
+попарно in pairs two and two
+попеременно alternately by turns
+поперечнаялиния transverse line
+поперечноесечение cross section
+поперечный transverse cross
+поперечныйразрез cross section
+пополам in two in half
+пополнение replenishment addition
+поправимаяошибка amendable error amendable fault
+поправка amendment correction
+популярный popular
+попутно at the same time
+попытка attempt attempting effort
+поразрядный bit-by-bit
+порт port
+портал portal
+портативность portability
+портативный portable
+портить corrupt damage garble
+портклавиатуры keyboard port
+портмыши mouse port
+портпринтера printer port
+портрет portrait
+портретный portrait
+поручение mission
+порядковый serial ordinal
+порядковыйномер sequence number serial number ordinal number
+порядковыйтип serial number type
+порядок order
+посетитель attendee visitor
+посещаемость traffic
+посещаемый visited
+посещение visit visiting hit
+последний final last late up-to-date
+последовательнаяпамять serial-access memory serial memory
+последоваетльно consistently
+последовательность sequence consistency order series
+последовательный sequential sequent serial chained logic
+последовательныйдоступ sequential access serial access
+последствие consequence consequent subsequence sequence
+последующий subsequent folowing
+послесвечениеэкрана persistence of screen
+посредник gate-keeper
+посредникобъектныхзапросов object request broker
+посредством through
+поставлять provide
+поставщик vendor
+поставщиксетевыхуслуг provider
+постоянная constant
+постоянно continuously permanently
+постоянность constancy
+постоянный constant changeless permanent
+постоянныйкластер lost cluster
+постпроцессор back-end processor postprocessor
+постраничный page paginal
+постредактирование postediting
+построение composition
+построенный plotted
+построчнаяразвертка noninterlaced noninterlacing de-interface deinterface
+построчно line at time
+постскриптум postscriptum postscript
+постулат postulate
+постулировать postulate
+поступление arrival
+посылка sending
+потенциал potential
+потенциальный potential
+потеря loss
+потерянный dead
+поток flow stream thread
+потокданных dataflow data flow
+потоккоманд processor thread
+потоковыйредактор stream editor
+потокуправления control flow thread
+потомок descendant
+поточечноецифровоеуправление digital setpoint control
+поточечныйграфик XY graph XY-graph x-y graph
+потребляемый expendable
+похожий similar consimilar
+почта mail
+почтмейстер postmaster
+почтовый mailing
+почтовыйпротокол post office protocol
+почтовыйробот mailbot
+почтовыйслот mail slot mailslot
+пошаговоеподтверждение step-by-step confirmation
+пошаговый step-by-step
+поэтапный step-by-step
+появление appearance emergence
+пояснение explanation explication help
+пояснительный explanatory explicatory explicative
+права rights
+правадоступа permission
+правка correction edit editing
+правило rule
+правильно correctly right properly
+правильность correctness
+правильный right correct faithful proper
+править correct emendate edit
+право right
+праводоступа access right
+преамбула preamble
+превалировать prevail
+превалирующий prevailing
+превосходить exceed excel
+превосходный excellent perfect
+превосходство superiority
+превосходящий superior
+превышение exceeding excess
+предварительный preparatory prior tentative
+предварительныйпросмотр preview print preview
+предвычисление prediction
+предвычислитель predictor
+предвычислителькурса predictor course
+предвычисляемый predictable
+предвычислять predict
+предел limit bound
+предельный extreme
+предлагаемый proposed
+предложение offer suggestion unambiguous sentence sentence
+предложенный proposed
+предложитьсм.
+предмашинный preprinted
+предмет subject
+предметный subject
+предметныйуказатель index subject-heading
+предназначенный appointed designed
+предназначить appoint
+преднамеренно purposely
+преднамеренность premeditation forethought
+преднамеренный predimitated intentional
+предок ancestor
+предохранитель safety device
+предохранительный safety protective
+предохранять safeguard protect
+предписание order
+предполагаемый estimated expected supposed tentative
+предположение supposition assumption
+предположительный estimated expected hypothetical
+предпочитаемый preferred
+предпочтение preference
+предпочтительный preferable
+предпроцессор preprocessor
+предсказанный predicted
+предсказывающееустройство predictor
+представление representation
+предстоящий upcoming forthcoming
+предупреждающий warning
+предупреждение alert warning caution notice
+предшествующий previous
+предыдущий previous old
+предыстория
+прежде formerly before
+преждевременный premature
+прежний previous former
+презентационнаяграфика presentation graphics
+презентационный presentation
+презентация presentation
+преимущественно mainly chiefly principally
+преимущественноеправо priority
+преимущественный pre-emptive preemptive main primary preferential
+преимущество advantage preference priority
+прекращение cease close-down interruption abort cut-off
+преломление refraction
+преобладание prevalence predominance
+преобладать prevail predominate
+преобладающий prevailing predominant
+преобразование conversion converting transform transformation alternation map
+преобразованиеданных data conversion data reduction
+преобразованиеобъектов object conversion
+преобразованиефайла file conversion converting file
+преобразованиетипов type conversion cast
+преобразователь converter transducer transformer translator mapper
+преобразовательизображения image translator
+преобразователькода code converter code translator
+преобразователькоординат resolver
+преодоление overcoming
+преодолимый surmountable
+препроцессор front-end processor preprocessor
+препинание:
+препятствие difficulty hinderance holdback pullback retarder
+препятствовать impede
+прерванный interrupted
+прерывание interrupt
+прерыватель circuit breaker contact-breaker
+прерывисто discontinuously interruptedly
+прерывистый discontinuous discrete interrupted
+префикс prefix
+префиксименифайла path
+прецедент precedent
+прибавление addition supplement appendix
+прибавляемаявеличина increment
+прибавочный additional surplus
+приближение approximation approach
+приближенность approximate nature
+приближенный approximate
+приблизительно approximately about
+приблизительный approximate
+прибор device
+приборнаядоска instument panel
+приборный instrument
+прибытие arrival
+привязка anchor
+привилегированнаякоманда privileged instruction
+привилегированный privileged authorized
+привилегированныйпользователь authorized user
+привилегированныйрежим privileged mode kernel mode executive mode
+привелегия priviledge
+привод drive
+приводголовок actuator
+приводной driving
+привычка habit
+привычный habital usual
+приглашение prompt welcome
+пригодиться be of use be useful
+пригодность aptitude usefulness
+пригодный fit suitable useful usable
+пригонять adjust fit on
+приготовительный preparatory preliminary
+приготовление preparation
+прием reception
+приемлемый appropriate acceptable
+приемник reciever
+приемникданных data sink
+приемникшины bus receiver
+приемопередатчик transceiver
+признак character flag feature indication sign
+признанный recognized
+прикладной application
+прикладнойпрограммист application programmer
+прикрепленный attached clip-on
+прилегающий neighbouring neighbour
+приложение application addenda appendix annex supplement
+приложить apply
+применение application use utilization
+применимость applicability
+применимый usable applicable
+применяться adapt oneself conform
+пример example pattern sample
+примерно approximately about exemplarily
+примерный exemplary approximate model exemplary
+примечание annotation explanatory note notes
+примитивный primitive
+принимающий receiving
+принтер printer
+принтерный printer
+принудительный compulsory
+принцип principle
+принципиальнаясхема hookup
+принципиально on principle in principle
+принципиальный conceptual general of principle
+принятие taking acception admission
+принято it is accepted
+приоритет priority
+приоритетнаямногозадачность preemptive multitasking
+приоритетнаяпрограмма foreground program top-priority program
+приоритетнаяструктурашины bus priority structure
+приоритетноеуправлениешиной bus priority control
+приоритетный priority top-priority pre-emptive preemptive foreground
+приостановка delay hesitation interruption halt
+приписывать assign
+приращение increase difference increment
+прирост gain increase increment
+присваивание assignation assignement
+присвоенный assigned
+присоединение attachment connection
+присоединенный attached connected
+приспособление adaptation adjustment gear device appliance
+приспособленный fitted
+присутствие presence
+присутствующий present
+присущий inherent proper
+притяжение snap
+причина cause reason
+пробел space inter-space inter-word
+пробежка galloping
+проблема problem
+проблематичный problematical
+проблемный problem
+пробный test
+пробовать test try
+провайдер provider
+провал failing fail failure
+провалиться fail
+проверенный examined revised tried checked
+проверитьсм.
+проверка check control revise examination verification verifying test
+проверкаданных data check data checking
+проверяемый verified
+проверяющий checking verifying
+проверяющийошибки error-checking
+провод cord wire line
+проводник path conductor
+проводящий conductive
+проводящийканал conductive channel
+прогноз forecast prediction
+прогнозирование prediction forecasting
+прогнозированный predicted
+прогнозировать predict forecast
+прогнозируемаявеличина predictand
+прогнозируемоеразвитие scenario
+прогнозируемый predictable
+прогнозирующееустройство predictor
+прогнозирующий forecasting
+прогон scan rollforward running run
+прогонбумаги paper throw paper feed slew
+программа program
+программарисования paint program paintbrush program drawing program
+программасвязи communications program
+программирование programming
+программированноеобучение educational computing programmed learning programmed education programmed instruction
+программированный programmed configurable
+программировать preset program
+программируемый programmable
+программирующий programming
+программист programmer
+программный software soft softwired program
+прогресс progress
+прогрессивный progress progressive
+прогрессировать progress
+прогрессия progression series
+продажа selling
+продающий selling
+продвижение advancement
+продвинутый advanced
+продемонстрировать demonstrate show
+продление expension prolongation
+продолжаться continue last go on
+продолжение continuation continuance sequel
+продолжительность continuance duration
+продолжительный long prolonged
+продольный longitudinal
+продублировать buck up
+продуктивность productiveness productivity
+продуктивный productive
+продуманный considered
+проект project scheme draft
+проективноеотображение projectivity
+проективный projective
+проектирование design designing drafting projection engeneering
+проектировать project engineer plan
+проектирующий designing drafting
+проектный planning planned
+проектор projector
+проекционный projected projector
+проекционныйдисплей projected display
+проекция projection
+прозрачность transparency
+прозрачный transparent
+прозрачныйфон transparency
+проигрыватель player
+производитель vendor
+производить make produce exert
+производная derivate
+производный derivative derived
+произвольный arbitrary optional custom random
+произвольныйдоступ random access arbitrary access
+происходить happen take place occur come
+прокрутка scrolling scroll
+промежуток gap interval
+промежутоквремени mean time meantime
+промежуточный intermediate medium
+промежуточныйфайл intermediate file
+промежуточныйязык intermediate language
+проникать penetrate gate-crash
+пропавший vanished
+пропадать disappear vanish
+прополка weed
+пропорциональность ratio
+пропорциональный proportional
+пропорциональныйинтервал proportional leading proportional pitch proportional spacing
+пропорциональныйпробел proportional spacing
+пропорция ratio proportion
+пропуск skip vacancy gap
+пропускать miss ignore drop out
+пропускающий missing
+пропускзакрытыхфайлов skip closed frames
+пропускнаяспособность handwidth carrying capacity throughput
+пропущенный missed missing
+просить ask
+просмотр examine explore exploring look view scan scanning
+просмотрдеревакаталогов scanning directory structure
+просмотренный examined
+просмотрпагинации view pagination
+просматривающий scanning
+простейший primitive
+простоечисло prime number
+простой elementary similar prime
+пространственнаякривая three-dimensional curve skew-curve
+пространственный three-dimensional spatial
+пространство space room
+протаскивание drawing
+против against
+противо- anti- contra-
+противовирусный antiviral
+противодействие counteraction
+противодействовать counteract oppose
+противодействующий counteractive
+противоположное inserse reverse
+противоположность contrast inserse opposition contrast
+противоположный contrary opposite converse inserse reverse
+противоречие conflict contradiction
+противоречивый conflict conflicting
+противоречить contradict
+протокол protocol
+прo
+протоколмаршрутнойинформации routing information protocol
+прототип prototype
+протяжение extent stretch
+протяженность extent
+профайлер profiler
+профессионал professional
+профессиональный professional
+профилактика prevention
+профилактический preventive
+профилировщик profiler
+профиль profile type
+профильоборудования equipment profile
+проход passage pass
+проходдомена domain transit
+проходить pass gate-crash
+прохождение passing passage
+процедура procedure
+процедурауправленияфайлами file management routine
+процедурноеприложение procedural application
+процедурный procedural procedure
+процедурныйинтерфейс procedural interface
+процент percent per cent
+процентный percentage
+процесс process
+процессор processor
+процессорбазыданных database processor
+процессоробщегоназначения general-purpose processor
+процессорпечати print processor
+процессорсбораданных acquisition processor
+процессорсигналов signal processor
+процессорсреды media engine
+процессоруправленияфайлами file control processor
+прочесть read
+прочитанный read
+прочтение reading
+прошедший past
+прошлый last
+прыжок jump
+прямая straight line
+прямаяадресация direct addressing immediate addressing
+прямаяпечать direct print
+прямаяподстановка direct substitution
+прямаяпоследовательность direct sequence
+прямаяпропорциональность direct ratio
+прямо directly straight
+прямоекодирование one-hot encoding
+прямоеотображение one-hot encoding
+прямоесоединение direct connection
+прямой direct immediate straight first-hand
+прямойдоступ random access direct access
+прямойнаборданных direct data set
+прямойфайл direct-access file
+прямолинейный rectilinear
+прямоугольник rectangle
+прямоугольный right-angled rectangular
+прятать hide
+псевдо- pseudo-
+псевдографика character graphics
+псевдодиск virtual disk
+псевдокод pseudocode
+псевдоним pseudonym alias
+псевдоокраска pseudocolor
+псевдослучайный pseudo random
+публикация publication publishing
+публиковать publish
+пул pool
+пулпамяти memory pool
+пульверизатор airbrush
+пункт point
+пунктир dash dotted line
+пунктирный dashed dotted broken
+пунктуальный punctual
+пунктуация punctuation
+пуск launch start
+пусковой start
+пустаяинструкция blank instruction
+пустаякоманда no-operation no operation no-op
+пустаяячейка blank cell
+пустой blank empty
+путешествовать travel surf
+путь path
+пушка gun
+пыль dust
+пятеричный quinary
+пятиугольник pentagon
+пятиугольный pentagonal
+пятно blot smudge
+работа action operation activities duty job
+работать act operate
+работающий active working going efficient
+рабочаяобласть workspace work area client area
+рабочий active working operative work
+рабочийблокнот work book
+рабочийкаталог working directory
+рабочийфайл temporary file temp file work file
+равенство equality half-mesh
+равно equal
+равно- equi- iso
+равнобедренный isosceles
+равновесие balance
+равнозначащий equivalent
+равнозначнаяширина equal width
+равнозначный equal equivalent
+равномерно evenly
+равномерный equable equal even
+равноправнаясеть peer-to-peer
+равноправный equal
+равносторонний equilateral
+равноугольный equingular
+равный equal
+равнять make equal
+равняться be equal
+радиальный radial
+радиан radian
+радикал radical
+радио radio
+радиоволна radio wave
+радиокнопка option button
+радиопередатчик trasmitter
+радиопередача broadcast
+радиоприемник radio
+радиосвязь radio communication
+радиостанция radio station
+радиотехник radiotechnician
+радиоэлектроника radiotronics radioelectronics
+радиус radius
+разархивирование unpack unpacking
+разархивировать archive-in unpack
+разбивка partition pagination page breaking page numbering break tiles
+разблокированный enabled unlocked
+разблокировать enable unblock unlock
+разбор analysis
+разборка disassambly
+разброс spread
+разбросанный dissipated
+развернуть maximize
+развертка dissection involute
+разверткаизображения image dissection
+развертывать unfold expand
+развертывающийся developable
+разветвление ramification fork
+развивать develop
+развитие development evolution
+разворот center spread double-page spread double-sided
+разговор chat
+раграничение delimitation
+рагружать unload
+разгрузка dump dumping
+раздваивать dualize
+раздел partition part section division
+разделдиска disk partition
+разделение sharing compartition division separating separation resolving partition
+разделениефайлов file sharing
+разделенный divided split parted
+разделимость partibility
+разделитель separator delimiter
+разделительный dividing separatory divide split
+разделительфайлов file seperator
+разделпамяти division partition
+разделяющий dividing divisive separating sharing
+раздельно separately distinctly
+раздельный separate distinct
+раздробить split
+раззиповывать unzip
+разгалаемый decomposable
+различать differ
+различие contrast difference distinction
+различительный distinctive
+различный various differing different
+разложение dissection decomposition factorization
+разложенный expanded
+разложимый decomposable
+размер size gauge
+размерность dimension
+размеррегистра register size
+размерфайла file size
+размершрифта font size type size
+разметка layout snap
+разметкадиска disk format initialize
+разметкадискеты floppy disk formatting
+разметкастраницы page layout
+размеченный marked
+размеченныйдиск initialized disk
+размещать allocate arrange dispose
+размещение allocation
+размещенный disposed located placed
+размножаемый reproductible
+размывание blur dither
+размытие blur soften
+разница difference
+разновидность variety flavor
+разнообразие diversity variety
+разнообразный various
+разность difference residual
+разный different
+разорванный broken
+разработанный created developed
+разработка development creation engeneering designful
+разработкапрограмм program development
+разработкашрифта design of typeface
+разработчик designer deviser developer vendor implementator
+разработчикалгоритма algorithm designer
+разреженнаяматрица sparse array disperse array
+разреженный disperse expanded
+разреженныймассив sparse array disperse array
+разрешающий authorizing
+разрешение resolution
+разрешенноепрерывание enabled interrupt
+разрешенный authorized permitted enabled
+разрешимый decidable
+разрушать broke corrupt decay destroy
+разрушающийся decaying
+разрушение corruption decay breaking damage collapse
+разрушенный decayed destroyed
+разрушительный destructive
+разрыв break disrupt
+разрывать disrupt
+разрывность discontinuity discreteness
+разрывный discontinuous
+разрывстраницы page break
+разряд digit bit
+разрядзанятости vacancy bit
+разрядзащиты guard digit guard bit
+разрядка expanded font discharge
+разрядность capacity
+разрядностьрегистра register capacity
+разрядностьцвета bit depth
+разрядпереноса carry
+разыскивать hunt out
+разъединение detachment decoupling separation cut-off disconnection disconnexion
+разъединенный detached
+разъединитель disconnector
+разъем connecter jack plug slot parting
+разъемклавиатуры keyboard connector
+разъемрасшиения expansion slot
+рамка frame border
+рамкаокна window border
+рамкаэкрана screen border
+ранний early
+раскладкаклавиатуры keyboard layout
+раскодировать decode
+раскраска paint
+раскрашенный painted
+раскрашивание painting
+раскрывающийся pull-down drop-down
+распахнуть zoom in zoom input
+распечатанный printed
+распечатка printing print out listing dump
+расписание timetable
+распознавание recognition identification
+расплавка melt
+расплавляться melt
+распознаваниеречи voice recognition speech recognition speech analysis
+распознанный recognized
+расположение disposition arrangement layout
+расположенный disposed
+распределение allocation dispensation distribution
+распределенноеприложение distributed application
+распределенноеуправление distributed intelligence distributed logic
+распределенный allocated distributed dispersed
+распределенныйдоступ distributed access
+распределитель distributor
+распределительный distributing distributive
+распределять allocate distribute dispense measure out 
+распространение spread
+распространитель disseminator
+распространять widen spread
+рассеивание dispersion dissipate
+рассеянный diffused dissipated
+расслоение foliation
+рассматривать consider
+рассмотренный examined
+рассогласование misalignment
+рассортировывать decollate
+рассредоточение dispersion
+рассредоточенный dispersed
+расстановка positioning
+расстояние distance
+расстраивать disturb
+расстроенный deranged disordered
+расстройство derangement disorganization
+рассчитанный calculated measured
+рассчитывать calculate measure
+растворимость solubility
+растворитель solvent
+растеризация rasterization
+растр bitmap bit map pixel map pixel image raster
+растроваяграфика raster graphics bit-mapped graphics bitmapped graphics paint type graphics
+растровоеизображение pixel image pixel map bitmap image bitmapped image
+растровый bit-map raster pixel
+растровыйгенераторсимволов dot matrix character generator
+растровыйграфопостроитель raster plotter
+растровыйдисплей bit-map display mosaic display
+растровыйдрайвер raster driver
+растровыйобраз pixel image pixel map bitmap image
+растровыйплоттер raster plotter
+растровыйфайл bitmap file
+растровыйшрифт bitmap font raster font
+растушевка feather tintage
+растущий expanding
+растяжение pull
+расход expense
+расходимость divergence divergency
+расходовать expend
+расходуемый expendable
+расхождение divergence divergency 
+расчет calculation
+расчетный calculated expected
+расширение add-in add-on expansion
+расширениезапроса query completion
+расширениеименифайла extension
+расширениефайла file extension
+расширеннаяадресация extended addressing extensible addressing
+расширеннаяархитектурасети extended network architecture
+расширенный advanced enhanced expanded extended
+расширенныйрегистр extension register E-register
+расширитель extender hub
+расширяемость expandability extensibility
+расширяемый extensible expandable
+расширяемыйязыкразметки extensible markup language
+расширяющийся expanding
+расшифровка decoding
+расщепление splitting
+рациональный rational
+реагировать react
+реагирующий reactive
+реактивный reactive
+реакция reaction answer
+реальность reality
+реальный actual real
+ребро edge
+реверс reverse backspace
+реверсированный reversed
+регенерация regeneration refresh
+регион region
+региональный regional
+регистр register
+регистрадреса address register
+регистрадресаканала channel address register
+регистрационный registration
+регистрация record check-in registration logging login logon logging
+регистрировать record log registrate
+регистрироваться log in
+регистрирующий recording
+регистркоманд instruction register command register
+регистрсдвига shift register
+регистрсостояния condition register
+регулирование regulation control adjustment
+регулированиедоступа access control
+регулировать adjust handle govern
+регулировка adjustment control
+регулируемый adjustable controllable controlled variable
+регулярный regular
+регулятор controller governor slider
+редактирование edit editing editorship drafting
+редактированиетекста text editing text revision
+редактировать edit
+редактирующий editing drafting
+редактор editor
+редакторизображений graphics editor bitmap editor
+редакторреестра regedit
+редакторресурсов resource editor
+редакторсвязей linkage editor
+редакторсистемныхправил system policy editor
+редакторскаяправка editorial correction editorial revise
+редакторский editorial editing
+редакторскийтерминал editing terminal
+редакторстрок line editor
+редакторузлов node edit
+редакторчертежей drawing editor
+редакторшрифтов font editor
+редакция edition drafting
+реентерабельность reenterability
+режим mode
+режимасинхронногоотклика asynchronous response mode
+режимвидео mode video
+режимвставки insert mode
+режимвызова originate mode
+режимвыравнивания justification mode
+режимдоступа access mode
+режимзамещения overtype mode
+резерв standby store
+резервирование backing back up copy standby reservation
+резервировать reservate
+резервный back up stand-by
+резервныйдиск backup copy
+резервныйдубль back up
+резидент resident memory-resident program
+резидентнаяпрограмма resident program
+резидентный resident
+резкость sharpen definition
+резольвента resolvent resolution
+результат conclusion outcome effect consequent
+реинжиниринг reengineering
+рейсфедер drafting pen
+реклама advertisement
+рекомендация recommendation recommending
+рекомендованный recommended
+рекомендовать recommend
+рекомендующий recommending
+реконфигурация reconfiguration
+рекурсивнаяподпрограмма recursive subroutine
+рекурсивнаяпроцедура recursive procedure
+рекурсивнаяфункция recursive function
+рекурсивноеобращение recursive call
+рекурсивный recursive
+рекурсия recursion
+релевантный relevant
+релевантность relevancy
+реле relay
+рельеф emboss relief
+рельефный emboss
+реляционный relational
+ремонт repair
+ремонтировать do up repair
+ремонтный repair
+реорганизация reengineering
+репагинация repaginate
+реплика replication
+репозиторий repository
+ресинхронизация resynch
+рестарт restart
+ресурс resource
+ретрансляция relay
+ретушь despectle shading halftone
+речевой voice speech
+речь speech voice
+решающееустройство resolver solver
+решающий critical crucial
+решение decision solution
+решенный decided
+решетка grate grid hash sharp
+рикошет bounce
+рисование drawing paint painting
+рисованиелиний line drawing
+рисовать depict draw paint
+рисунок picture illustration image depiction cutout graphic
+робот robot
+роботехника robotics robotechnics
+роботизация robotization
+ровный equable equal even flat
+родитель parent
+родительский parent
+розетка socket wall outlet
+ролевой role
+роль role
+ромашка daisywheel
+ромб diamond vertex rhomb
+рост growth increase
+рубеж frontier
+рубильник contact-breaker
+рубленныйшрифт sans serif
+рубрика heading rubric
+рубрикация rubrication
+рубрикатор list of heading
+рука grabber hand
+руководство manual guidance
+рукописный handwriting
+рукопись manuscript
+рукоятка handle
+ручка handle
+ручной manual
+ручнойсканер handheld scanner hand-help scanner
+рычагвыборки access arm
+ряд sequence series
+сайкл cycle
+само- self-
+самоадресация self-addressing
+самозагружающийся self-loading
+самотестирование self test selftest
+самомодифицирующийся self modifying
+самонастраиваемоеустройство plug and play plug-and-play
+самонастройка plug and play plug-and-play
+самопроизвольный spontaneous
+cанкционирование authorization authorizing
+санкционированный authorized
+санкционировать authorize
+санкционирующий authorizing
+сателлитная ЭВМ satellite computer
+сателлитный satellite
+сбалансированный balanced
+сбиваться glork
+сближение contingence closing in
+сбоить glitch
+сбой fault fail failing failure glitch crash
+сбойный fault failure
+сбойныйсектор bad sector
+cбор collection accumulation
+сборданных collection data data collection data acquisition
+сборка fitting setting-up
+сборный made-up
+сброс dump dumping discarding discharge reset resetting fault
+сбросданных data dump
+сбросизмененныхданных changed data dump
+сброшенный faulted reset
+сброшюрованный collated
+свернутый surrogated
+свернуть minimize surrogate
+свертывание surrogation
+сверх- extra- ultra-
+сверхбольшой extra large
+сверхбыстродействующий ultraspeed
+сверхнадежный ultrareliable
+сверхпроводник superconductor
+сверхсекретный top secret
+сверху above from top
+свет light
+светлый light lean light-faced
+световой light
+светодиод light-emmitting diode
+светодиодный LED
+светокопировать blueprint
+светокопия blueprint
+свободный arbitrary clear free idle unoccupied disposable
+своднаятаблица pivot table
+сводный cumulated master
+сводныйкаталог central catalog
+свойства properties
+свойственный inherent proper
+свойство property attribute feature
+свойствокласса property
+свопинг swapping
+сворачивание collapse shrink
+связанный connected coupled linked coherent
+связанныйобъект linked object
+связка link
+связнаяЭВМ communication computer
+связность connectivity
+связывание linking binding
+связывать connect couple link interlink bind assosiate
+связываться contact connect
+связывающий linking
+связь communication communication
+сгибание flexion flexure
+сглаженный smooth
+сглаживание flattening smooth smoothing anti-aliasing
+сглаживать smooth
+сгореть fry
+сгущение condensation
+сдвиг shift offset shift
+сдвоенный doubled duplicate
+сделанный made
+сеанс session
+сегмент segment
+сегментация segmentation
+сегментированный segmented
+секанс secant
+секрет secret
+секретнаяинформация confidential information
+секретность secrecy privacy
+секретный classified confidential secret
+секретныйзнак secret sign
+сектор sector
+секторный sectorial
+секунда second
+секущий secant
+секция section
+секцияфайла file section
+селекторнаясхема gate circuit
+селекторныйканал selector channel
+семантика semantics
+семантическаяошибка semantic error
+семантический semantic
+семафор semaphore
+семействошрифтов font family
+семействоЭВМ computer family
+сенсорный touch
+сенсорныйпланшет touch pad
+сенсорныйэкран finger-touch screen touch screen
+сервер server
+серверавтоматизированногоуправления automated connection manager server
+серверасинхроннойсвязи asynchronous communication server
+сервердоменныхимен domain name server
+серверзагрузки load server
+серверимендоменов domain name server
+серверный server
+сервис service
+сервисный service server
+сервисныйпровайдер server provider
+серийный serial
+сериф serif
+серия series
+сертификация certification
+сертифицированный certificated certified
+сертифицировать certificate
+серфер surfer
+серый gray
+сетеваякарта network card network board
+сетеваяконсоль network console
+сетеваярозетка wall outlet
+сетеваястанция network station
+сетеваяструктура network structure
+сетеваяшина network bus
+сетевоеимя shared name
+сетевоеокружение neighborhood network management
+сетевой net networked
+сетевойуровень network layer
+сетевойфайл network file
+сетевойэтикет netiquette
+сетеобразование ramification
+сетка grid gridlines
+сеткаразмещения layout
+сеть network
+сеть ЭВМ computer network
+сжатаяпечать compressed print condensed print
+сжатие compacting
+сжатиеданных data compression data compaction
+сжатиеполей field squeeze
+сжатиефайла file compression file compaction
+сжато compactly
+сжатость compaction condensation condensity
+сжатый compacted compressed condensed constricted
+сжатыйфайл compressed file
+сжатыйшрифт condensed font
+сжимание compaction
+сжимать shrink
+CИ C
+сигмоидальный sigmoid
+сигнал signal wave 
+сигнализирование signalling
+сигнализировать signal signalize
+сигналить signal
+сигнальнаяинформация awareness news current-awareness information
+сигнальноеоповещение alerting
+сигнальный signal current-awareness
+сильно hard
+символ character
+символадреса address character
+символвычеркиваниясимвола character deletion character
+символгруппы group icon
+символзапроса enquirer character
+символидентификациивызова call directing character
+символидентификациикода code directing character
+символическаяалгебра Simbolic Algebra
+символический symbolic
+символрасширениякода code extension character
+символразделенияфайлов file separator character
+символредактирования edit character editing character
+символьнаяграфика character graphics
+символьнаяконстанта charatcer constant
+симметризация symmetrization
+симметричноешифорование symmetric enciphering symmetric encryption secret key enciphering secret key encryption
+симметричный symmetric
+симметричныйалгоритмшифрования skipjack
+симметричныйвыход ballanced output
+симметрия symmetry
+симплексноесоединение simplex
+симплексный simplex
+синий blue
+синоним synonym
+синтаксис syntax
+синтез synthesis
+синтезатор synthesizer
+синтезировать synthesize
+синтезпрограмм program synthesis
+синтезречи speech synthesis speech generation
+синус sine
+синусоида sine curve
+синхронизация synchronization timing
+синхронизацияданных data synchronization
+синхронизациябазданных database synchronization
+синхронизацияинтерфейсаипериферийногооборудования handshake
+синхронизацияшины bus clock
+синхронизировать synchronize contemporize
+синхронизированный synchronized phased
+синхронный synchronous simultaneous
+система system
+системакоманд instruction set repertoire
+системаконтролядоступа access control system
+системакоординат frame of reference
+системаобработкиданных data handling system data processing system
+систематизатор digester
+систематизация systematization
+систематизированный classified
+систематизировать methodize systematize
+систематик systemizer
+систематический systematic
+системауправленияпамятью memory management system
+системнаяутилита executive system utility
+системнаяшина system bus S-bus
+системноеменю control menu
+системноемодальноедиалоговоеокно system modal dialog box
+системный system
+системныйадминистратор system administrator
+системныйанализ operations analysis
+системныйблок system block
+системныйдиск system disk
+системныйпрограммист system manager system programmer software programmer
+системныйфайл system file
+ситуация situation condition
+скалярноепроизведение dot product
+сканер scanner
+сканирование scan scanning
+сканировать scan
+c
+скачивание download
+сквознаязамена global replacement
+сквознойпоиск global search
+сквозь through
+складывать add count up
+склеивание patching
+склоняться trend
+скобка bracket parenthesis
+скользить surf
+скоординировать synchronize
+скопированный copied
+скопировать copy
+скорее faster
+скорректированный adjusted
+скорость rate speed
+скорый fast
+скос skew
+скремблер scrambler
+скреплять spike
+скрипт script
+скроллинг scrolling
+скручивание twirl
+скрытие encapsulation
+скрытый buried hidden encapsulated
+скрытыйканал buried channel
+скрытыйсимвол hidden character
+скрытыйтекст hidden text
+скрытыйтип encapsulated type
+скрытыйфайл hidden file
+скругленный rounded
+слабеющий failing
+слабый dying faint
+слайд slide
+слева from the left
+след trace
+следить look after follow
+следование movement
+следовательно consequently
+следовать abide follow
+следствие consequence effect
+следующее following
+следующий next sequent sequential
+слежение tracking monitoring
+сливать collate merge
+слиток ingot
+слияние gathering merge mail merge
+словарный dictionary lexical
+словарь dictionary vocabulary
+словарьдокумента document dictionary
+слово word
+сложение addition
+сложноеустройство complicacy
+сложность complexity complicacy complication
+сложный complicated complex
+слой layer
+сломанный broken
+сломать break
+слот slot
+служба service
+службадоменныхимен domain name service
+службакаталогов directory service
+службаотладки debug service
+службасвязи communication service
+служебнаяпрограмма service program utility
+служебноеслово reserved word
+служебныйразряд control bit
+случайнаявеличина random variable
+случайнаявыборка random sample
+случайнаяошибка accidental error random error
+случайно by chance
+случайность chance randomness
+случайный accidental chance chanceable occasional random
+случайныйсбой occasional irregularity
+случайныйхарактер randomness
+слышимый audible
+слэш slash
+смежный contiguous coterminous neighbour neighbouring
+смена change exchange
+сменафазшины change bus phases
+сменашрифта font change
+сменнаяплата plug-in card plug-in board
+сменный changeable removable plugable
+сменныйдиск changeable disk
+смесь mix miscellaneous blend
+смешанныецвета dithered colors
+смешанный mixed
+смешивание mixing blend blending
+смешивать mix blend
+смешивающий mixing
+смещать depose
+смещение displacement offset drift bias
+смещенный skew
+смотр view
+смотреть look
+смысл meaning
+снабжать supply with
+снабжение provision supply supplying
+сначала at first again
+снег snow
+снижение drop
+сниженный depressed
+снизитьсм.
+снимок shot
+сниффинг sniffing sniff
+снова again
+сноска note footnote
+собирание gathering
+соблюдать keep
+собранный collected gathered
+собираться gather
+cоблюдать abide
+собственный home own
+событие event
+совершенный perfect
+совершенствование improvement
+совершенствовать improve
+совместимость compatibility compliance
+совместимый compatible
+совместимый «
+совместный common united shared shareable
+совмещаться concur
+совмещение concurrence concurrency overlap
+совмещениеимен aliasing
+совмещенный concurrent nondedicated
+совмещенныйфайловыйсервер nondedicated file server
+совокупность corpus set ensemble
+совокупный cumulative
+современный modern advanced
+совпадать concur
+совпадающий concurrent consilient
+совпадение concurrence concurrency consilience hit
+согласие agreement accept
+согласование coordination flow control
+согласованнаятрансляция consistent compilation
+согласованность consistency coordination
+согласованный concurrent consistent coordinated
+согласующийся consistent
+соглашение convention
+содействие aid assistance
+содействовать help assist promote
+содержание content contents
+содержать contain include
+содержимое content
+содержимоеадресногорегистра contents of address register
+соединение composite connection coupling call
+соединениешин bus connection
+соединенный combined connected conjoined conjoint joint conjunct united
+соединитель connector
+соединительноезвено connector connecting link
+соединительный connecting coordinate
+соединительныйшнур patchcord
+соединяемость connectivity
+соединяться join dial up
+соединяющий merging unitive
+создатькаталог make directory compose
+создание creating creation
+созданиекаталога directory creation
+созданиефайла file creation
+созданный created
+создатель creator
+сокет socket
+сокращающийся contractile diminishing
+сокращение abbreviation abridgement cut cutdown cutback diminution
+сокращенный abbreviated cut cutdown diminished
+соль salt
+сомножитель factor
+сон drowse
+сообщение message communication
+сообщенный reported
+соосный coaxial
+соответственный corresponding
+соответствие adequacy compliance conformability conformity conformance
+соответстововать correspond respond match
+соответствующий appropriate
+соотносительноепонятие correlate
+соотносительный correlate
+соотношение correspondence correlation
+сопоставление comparision
+сопровождение maintenance
+сопроцессор coprocessor
+сопряжение conjugacy conjugation
+сопряженность conjugacy contingence
+сопряженный conjugate
+сопутствующий subsequent
+сорт sort
+сортировать sort decollate
+сортировка sort sorting picking decollation
+сортировщик sorter
+сортирующий sorting
+соседний adjacent neighbour neighbouring
+adjacent channel attenuation
+состав composition make-up structure
+составитель composer
+составление composition compositing
+составляющий composing
+составноеименованноечисло compound number
+составнойэлементданных data aggregate data element
+составныеиндексы compound structural indexes
+состояние condition state status
+состоять consist
+сотовый cellular
+сотрудничать cooperate
+сотрудничество cooperation
+софт soft software
+сохранение reservation saving
+сохранность security
+сохраняемый maintained
+сочетание combination blending
+сочетаться blend in
+специализация specialization dedication
+специализированнаяЭВМ dedicated computer
+специализированный specialized dedicated job-oriented
+специализированныйтерминал job-oriented terminal
+специализироваться specialize
+специалист specialist
+специальность speciality
+специальный dedicated job-oriented special specific
+специальныйсимвол special character
+специфика specificity
+спецификатор qualifier declarator specifier
+спецификация specification
+спецификацияимени name specification
+спецификацияименисервера server name specification
+спецификацияинтерфейсовсетевыхустройств network device interface specification
+спецификацияотображаемойпамяти expanded memory specification
+спецификациясетевогонакопителя network specification
+спецификациясредыприкладныхпрограмм application environment specification
+спецификацияфайла file specification
+спецификацияфлага banner specification
+специфический specific
+спецпроцессор back-end processor
+спешный hurried
+список list
+списокпараметров argument list parameter list
+списокцикла cycle list
+спланированный designed scheduled
+спалнировать plan design
+сплошной solid
+способ method mode way
+способадресации addressing mode
+способность ability capacity
+способствовать help on help forward
+справа from the right
+справка help information reference
+справочнаясистема help
+справочник data book handbook
+справочный referential referenced query
+спрашивать ask inquire
+спрашивающий inquiring
+спрятать hide
+спулинг spooling
+спутник satellite
+спутниковаясвязь satellite connection
+спутниковый satellite
+спэм spam
+спящийпроцесс hibernating process
+сравнение compare comparision
+среда environment
+средаразработкиприложений application development environment
+среди among
+среднеевремядоступа average access time
+среднеевремямеждуотказами mean time between failures
+среднеквадратический mean-square
+среднеечисло medium
+средний average mean medium moderate
+средник intercolumn space
+средства facilities mean
+средстваидентификации means of identification
+средстваопознавания means of identification
+средстварасширения advanced feature
+средствасвязи means of communication
+средство mean
+средствообработкиизображений image handling facility
+срок term date time
+срочно express
+срочный express short-dated urgent
+срыв disruption
+срываться abort
+ссылаться refer allude
+ссылка reference mention
+ссылочнаяинтеграция referential integrity
+ссылочный referential
+стадия phase stage
+стандарт standard preset
+стандартизация standardization
+стандартизировать standardize
+стандартизмерения benchmark
+стандартный common standard routine conventional boilerplate preset default
+стандартныйобощенныйязыкразметки standard generalized markup language
+стандартшифрованияданных data encription standard
+стандартныйшрифт default font
+станция station
+старт start
+стартовый launch start
+старший high most significant senior superior
+старшийбайт most significant byte
+старшийбит most significant bit
+старшийразряд most significant digit
+старый old
+статистика statistics
+статистический statistic
+статический static
+статус status
+статья article
+стационарный stationary
+стек stack
+стенд bench
+степень degree exponent
+стереоскопический three-dimensional three-D
+стереотипный boilerplate
+стержень rod
+стертый erased
+стиль style
+стираемость erasability
+стираемый erasable
+стирание blotting effacement deleting deletion erasement erasing erasure wipe
+столбец column
+стоповый stop
+сторона side
+страница page
+страничный page
+стратегия strategy
+стрела arrow
+стрелка arrow
+стремиться converge
+стример streamer floppy tape
+строгий strict
+строго strictly
+строение framework
+строить erect
+строка line row string
+строкаввода entry line
+строказаголовка title bar
+строказапроса prompt string
+строкакодовклавиш key definition line
+строкаменю menu bar
+строкаподсказки prompt line help line
+строкапомощи prompt line help line
+строкасимволов string line
+строкасообщений message line
+строчный line
+струйный jet
+струйныйпринтер ink-jet printer jet printer jetprinter
+структура structure framework
+структураданных data structure data organization
+структуракаталога catalog structure
+структурафайла file structure
+структурирование structurization structuring
+структурированный structured
+структурноепрограммирование structured programming
+структурный strucural constructional
+ступенчатость aliasing jagging jaggy
+ступеньки jaggies jagging
+ступор stall
+стык joint
+субституция substitution
+субъект subject
+сужение constriction narrowing
+суженный constricted
+суживать constrict narrow
+сумма sum
+суммарный summary total
+сумматор accumulator adder summer
+суммирование addition
+суммировать add up sum summarize
+супер- super
+супервайзер supervisor
+суперкласс superclass
+суперкомпьютер supercomputer
+существенный essential meaningful
+существовать exist
+существующий existing
+сущность entity
+сфера field
+сформированный formed
+сформировать form generarate
+схема circuit
+схемаданных database scheme data sceme
+схемакодирования coding scheme
+схемапотоковданных data flowchart
+схематизировать schematize
+схематически diagrammaticаlly
+схематический diagrammatic schematic sketchy
+схематично schematically
+схематичный outnear sketchy
+схемаупорядочения collating sequence
+сходимость convergence convergency
+сходный consimilar similar
+сходство similarity
+сходящийся convergent
+сценарий scenario script
+сценарийрегистрации login script logon script
+сцепление coherence coupling
+сцепленный coherent coupled
+счет count account
+счетность countability
+счетный calculating denumerable enumerable numerable
+счетчик counter enumerator numerator meter
+счетчикадреса address counter
+счетчиккоманд instruction counter program counter
+считанный read
+считать count consider
+считывание reading readiness
+считывать read
+считывающий reading
+съемный removable replaceable
+сэмплинг sampling
+сюда here
+таблица table tab tabulation
+таблицавиртуальныхметодов virtual method table
+таблицавиртуальныхфункций virtual function table
+таблицафункции functional table
+таблицацветов colour chart
+таблицацветоделения separation table
+табличнаяфункция table function
+табличный table tabular
+табличныйкод table code
+табличныйпоиск table look-up table lookup
+табличныйтекст tabular text
+табличныйязык tabular language
+табло tableau
+табулирование tabling tabulation
+табулированный tabulated
+табулировать table tab tabularize tabulate
+табуляграмма tablegram tabulation
+табулятор tabulator tab tabulating machine
+табуляторный tabulator tab
+табуляторныйограничитель tab stop
+табуляторполей margin release
+табуляция tabulation tab
+таймер timer
+такт cycle
+тангенс tangent
+тангенсоида tangensoid
+тащить drag
+TБ
+твердый firm
+твининг tweening
+теговый tag tagged
+тезаурус thesaurus
+текст text
+текстоваяиллюстрация cut-in illustration
+текстоваяконстанта character constant
+текстоваяраспечатка font printout
+текстоваястрока alphabet string text string
+текстовоеполе character field text box text field
+текстовый alphanumeric text
+текстовыйдисплей character display
+текстовыйредактор text edit text editor
+текстовыйрежим character mode text mode
+текстурированный textured
+текстура texture
+текстурный textured
+текущий current active instant
+текущийбит current bit
+текущийбитданных current data bit
+текущийдиск current disk active dick
+текущийдисковод default drive
+текущийдокумент current document
+текущийкаталог current directory working directory
+текущееместоположение current position
+текущийрежимдисплея current video mode
+текущийрисунок active picture
+текущийсервер default server
+текущийсчет current account
+телевидение television
+телевизионный television TV
+телевизор television
+теледоступ remote access
+телекоммуникационныйметоддоступасочередями queued telecommunication access method
+телекоммуникация telecommunication
+телеконференция teleconference computer conference forum
+телекс telex
+телексный telex
+телеобработка teleprocessing
+телеобъектив telephoto lens
+телестанция television station
+телетайп teletype
+телетекст teletext
+телефон phone
+телефонист operator
+телефонноеобслуживание dial-in service
+тема theme subject
+тематика subject-matter themes
+тематический subject thematic
+темный dark
+тенденция trend
+теневаяграфика shaded graphics
+теневой shadow shaded
+тень shadow shading ghost
+теорема theorem
+теоретик theoretician
+теоретический theoritical
+теория theory
+теориявероятности theory of probability
+теорияигр game theory
+теорияинформации informatics
+теорияочередей queueing theory
+теориячисел number theory
+теплостойкий heat-resistant
+теплый warm
+терабайт terabyte
+терабит terabit
+термин term
+терминал terminal
+терминология terminology
+терминалпакетнойобработки batch terminal
+терминальный terminal
+терминатор terminator
+термический therm thermal
+термо- therm
+термовыключатель thermoswitch
+терморегулятор thermoregulator
+термореле thermorelay thermoswitch
+термоэлемент thermal element
+тернарный ternary
+территориальнаясеть wide area network
+территориальный teritorial
+территория territory
+терять lose
+теряться desappear get lost
+тест test
+тестирование test testing
+тестировать test
+тестирующий testing
+тестовый test
+тетрагональный tetragonal
+техника technic tech
+техническаяинформация technical information
+технический technic tech engeneering
+технология technology
+технологияулучшенияцветов advanced color enchancement
+технотронный technetronic
+тильда tilde squiggle
+тип type kind
+типданных data type
+тип «запись» record type
+типовой standard model
+типфайла file type
+типшрифта character font face
+тире dash em-rule
+титр caption title
+тихий low
+тождественность identity
+тождественный identical
+тождество identity
+ток current
+толкование explication
+толстый thick
+толщина thickness weight
+толщинаграницы border thickness
+том volume
+тон tone hue
+тонер toner
+тонкий thin fine
+тонкопленочный thin-film
+тоновый tone
+топология topology
+торможение drag
+тормозить drag brake
+торопиться hurry up
+точечнаяматрица dot matrix dot pattern
+точечный dot punctual
+точеченыйпунктир stipple
+точка point
+точкаввода entry point 
+точнаянастройка fine tuning
+точно definitely exactly
+точность accuracy definiteness exactness precision efficiency fidelity
+точный definite exact precise punctual faithful
+травление etching
+традиционный traditional
+тракт path
+транзакция transaction activity
+транзистор transistor
+транслировать compile translate
+транслятор translator compiler
+трансляторданных data translator
+трансляция translation
+трансляцияадреса address translation
+трансляцияданных data translation
+трансляцияпрограммы program translation translation of a program
+трансмиттер transmitter
+транспозиция transposition transpose
+транспортный transport
+транспортныйпротокол transport protocol
+транспьютер transputer
+трансфигурация transfiguration
+трансформанта transform
+трансформатор transformer
+трансформация transformation
+трассирование tracing
+трассировать trace
+трассировка tracking trace
+трассирующий tracing
+трафик traffic stream
+требование claim requirement requisition
+требовать claim demand require
+требуемый demandable requested required requisite
+требуемыйшрифт required font
+тревога alarm
+тред thread
+трекбол track ball trackball
+третий third
+третьявеличина tertium quid
+треугольник triangle
+треугольный triangular deltoid
+трехадресный three-address
+трехжильный three-core
+трехзначный three-digit
+трехкрасочнаяпечать three-color process
+трехкрасочный three-color
+трехмерноемоделирование solid modeling
+трехмерный three-dimensional three-D three-axis solid
+трехцветный three-color
+трехчлен trinomial
+трехчленный trinomial
+три three
+триггер flip-flop
+тригонометрический trigonometric
+тригонометрия trigonometry
+трисектриса trisectrix
+тройной triangular triple
+троичный ternary
+трудность complication difficulty
+трудный difficult
+трюк hack value
+тупик dead-lock deadlock dead-set no-go
+тупиковаяситуация dead-lock deadlock
+тушевать tint
+тэгирование tagging
+тяга pull
+тянуть drag pull
+убедительный convincing
+убедиться make sure
+убеждение persuasion conviction
+убывающий decreasing
+уведомление notification
+увеличение addition enlarge gain growth increase
+увеличиваться increase grow
+увеличивающийся increasing multiplicative
+увеличитель maximize box
+уверенность confidence certainty
+уверенный sure confident
+угловаяточкакривой corner
+угловой angular angle
+угол angle corner
+уголнаклонашаблона angle for pattern
+угрожать threaten
+угроза threat
+удаление abandon clipping deletion delete deleting removing
+удаленноеуправление remote administration
+удаленный deinstall erased removed long-distance remote
+удаленныйвход remote login
+удаленныйдоступ remote access remote connection 
+удаляющий removing
+ударение accent
+удвоение duplication doubling
+удвоениеизображения echo image
+удвоеннаяплотность double density
+удвоеннаяточность double precision
+удвоенный double doubled
+удлинение elongation
+удлиненный elongate elongated prolonged
+удобный confortable easy
+удоботестируемаяархитектура easy-to-test architecture
+удоботестируемый easy-to-test
+удобочитаемый readable
+удобство handiness serviceability
+удовлетворять obey
+уже already
+узел node hub
+узелок node
+узкий narrow
+узловой nodular
+указание directive direction indication
+указанный pointed indicated
+указатель pointer index indicator
+указательадреса address pointer access address
+указательбазы base pointer
+указательмыши mouse pointer mouse cursor
+указательный designative pointing
+указывающий directive indicatory
+укладкатекста word wrap wordwrap
+укомплектованный packaged
+украшения bells and whistles
+улей hive
+улучшение improvement emendation
+улучшенный advanced enhanced upgraded
+улучшенныйшагточки enhanced dot pitch
+улыбка smile
+умелый efficient
+умение ability
+уменьшать abate cut decay decrease degrade diminish minish shrink
+уменьшающийся diminishing
+уменьшение abatement cutback decay decrease diminution shrink
+уменьшенный diminished
+уменьшитель minimize box
+уменьшительный diminutive
+умеренный moderate
+уместность aptitude
+умножающий multiplying
+умножение multiplication multiplying
+умолчание default
+унаследованный inherited legacy
+универсал universal
+универсальнаяЭВМ all-purpose computer general purpose computer
+универсальный all-purpose general
+университетский university
+уникальный unique
+уничтожающий destructive
+уничтожение abandon blotting erasure wipeout undoing deleting deletion
+унификация unification
+унифицированный unitized unified
+унифицировать universalize standartize
+упакованный compressed encapsulated packed packaged
+упаковка pack packing
+упаковщик packager
+уплотнение compacting compaction compress compression pack condensation
+уплотнениеданных data compaction data compression
+уплотненный condensed impacted
+уполномоченный authorized
+упоминание mention
+упоминать mention
+упорядочение regulating putting in order arrangement grading regulation
+упорядоченный ordered
+употребительный used common
+употребление use usage
+управление control
+управлениепамятью memory management storage management
+управляемый controlled controllable managed operated
+управляемыйданными data-controlled
+управлять govern
+управляющаяклавиша control key direction key
+управляющаяЭВМ command computer control computer
+управляющееслово governor
+управляющий administrating governing control directing direction
+управляющийсигнал control signal
+управляющийсимвол control character command character
+управляющийсимволблока block control character
+управляющийсимволконцапередачиблока end-of-transmission block
+управляющийтранслятор control translator
+управляющийшарик control ball trackball
+упреждение forestalling
+упрощение simplification
+упрощенный simplified lite
+упущенный unseized
+уравнение equalization balancing equation
+уравнительный equalizing
+уравновешенный balanced
+урегулирование regulation
+урегулировать regulate
+урезание cropping cutdown
+урезанный cutdown
+урезать cut shorten reduce
+уровень level layer
+усекать abridge truncate
+усечение abridgement truncation
+усеченный truncated
+усиление gain intensification amplification
+усиленный advanced concentrated
+усилие effort
+усилитель amplifier
+ускорение acceleration
+ускоренный accelerated high-speed
+ускоритель accelerator
+условие condition assertion convention
+условиеветвления branch condition
+условиезавершенияцикла truncation condition
+условнаявероятность condition probability
+условнаятрансляция conditional compilation
+условно conditionally
+условный conditional conventional
+условныйатрибут bundled attribute
+условныйоператор condition statement If-statement
+условныйпереход condition branch condition jump
+усложнение complication
+усложненный advanced complicated
+усложнять complicate
+усложняться become complicated
+усовершенствование upgrade upgrading
+усовершенствованный advanced enhanced upgraded
+успех success
+успешно successfully
+успешный successful
+устанавливать adjust install designate determine hook up
+устанавливающий setting
+установка setting set setup installation fitting
+установленный installed established
+устаревший outdated
+устойчивость fault-tolerance tolerance
+устойчивый fault-tolerant tolerant
+устраивать arrange fit
+устранение elimination
+устраняющий eliminating
+устройство machine unit device
+устройствоввода input device input unit
+устойчивый constant
+утверждать assert state
+утверждение assertion statement
+утилитасжатияфайлов file compression utility
+недиалоговаяутилита command line utility
+уточнитель qualifier
+утраивать triple
+ухудшать degrade
+ухудшенный degraded
+участвовать participate
+участник participant
+участок section
+учебный training
+учет calculation registration enumeration
+фаза phase
+файл file
+файловаяпамять file store
+файловаясистема file system file store
+файловый file
+файлописанияадаптера adapter description file
+файлопределенияменю menu definition file
+файлпоследовательногодоступа sequential file
+файлпрямогодоступа random file direct-access file
+файлрегистрацииошибок error log
+факс facsimile machine fax
+факсимиле facsimile
+факсовый faximile fax
+факт fact
+фактический actual factual
+фактографический factual
+фактор factor
+факториальный factorial
+факторизация factorization
+факторизировать factor out
+фальшивый false
+фасет facet
+фасетизация faceting
+фатальный fatal
+феномен phenomenon
+фигура figure
+фигурныескобки braces curly brackets squiggle brackets
+фигурныйтекст word art artistic text
+физическаязапись physical record
+физическаяпамять physical memory physical storage actual storage
+физическийадрес physical address
+фантомныйток phantom current
+фиксация fixing locking
+фиксациястраницы page locking
+фиксирование fixing fixation
+фиксированный anchored fixed
+фиксировать fix fixate enter up
+фиктивный dummy fictious
+фильтр filter
+фильтрация filter
+фильтровать filter
+флаг flag semaphore
+флажок banner flag checkbox
+флексорайтер flexowriter
+флип flip
+фон background set tint
+фонарь drop cap
+фонд foundation stock
+фоноваязадача background
+фоноваяобработка background proccessing backgrounding
+фоноваяпечать background printing
+фоноваяпрограмма background
+фоноваяработа background job
+фоновоевыполнение background execution background proccessing backgrounding
+фоновоеизображение background image
+фоновый background
+фоновыйрежим background mode
+фонпрограммы program background
+форма form shape
+формальный formal
+формальныйязыкинтерактивногодиалога Formal Language of Interactive Talk
+формат format
+форматадреса address format
+форматбумаги paper size
+форматграфическогообмена graphic interchange format
+форматданных data format
+форматкоманды command format instruction format
+форматобменаданными data interchange format
+форматопределенияканалов channel definition format
+форматпакета packet format
+форматпереносимыхдокументов portable document format
+форматстрокинабора text line size length of type page line
+форматфайла file layout file format
+форматфайловизображений image file format
+формативный formative
+форматирование formatting
+форматированиеданных data formatting
+форматированиедиска formatting disk initialization
+форматированиедискеты floppy disk formatting
+форматированиетекста text formatting
+форматированнаяемкость formatted capacity
+форматированный formatted
+форматировать format initialize
+форматирующий formatting
+формирование formation generation
+формировать form orginize
+формироваться form develop
+формула formula formulation
+формулировать state formulate
+формулировка statement formulation
+формульноепредставление formulation formulization
+формульный formulation
+формуляр form
+форточка cut-in heading side heading let-in heading pane
+форум forum
+фото photo
+фотоаппарат camera
+фотобумага photographic paper
+фотограф photographer
+фотографировать photograph
+фотографический photograph photo
+фотография photo photography
+фотокопировать photocopy
+фотокопия photocopy
+фотомонтаж composite photograph
+фотообъектив lens
+фотопроекционный projection
+фотореализм photorealism
+фотоэлемент photoelectric cell
+фрагмент fragment cutout detail
+фрагментация fragmentation
+фрагментирование fragmentation
+фрагментированныe
+фрагментированный fragmented
+фрагментировать fragment
+фрейм frame
+фреймовый frame
+фракталь fractal
+фроб frob
+фронтальный frontal front
+фундаментальный fundamental
+функционал functional
+функциональный function functional
+функционировать function
+функция function feature
+хаб hub
+хакер hacker
+хакерский hackish
+хакерство hacking hackishness
+хаос chaos
+хаотический chaotic
+хаотичность randomness confusion
+хаотичный chaotic
+характеризовать describe characterize
+характеризоваться be characterized
+характеристика characteristic property
+характерный characteristic distinctive
+хардвер hardware
+хартли hartley
+хвост tail
+хвостовой tail
+хетирование randomizing
+хит hit
+ход step
+холодный cold
+холостаякоманда no-op no-operation no operation
+холостой idle blank
+хост host
+хотеть want
+хранение storage
+хранилище store
+хранитель saver
+хранить keep store
+хронологический chronologic
+chronologize
+хронология chronology
+хронометраж timing
+цвет color 
+цветноеизображение color image
+цветной color colored full-color multicolor
+цветоваягамма color gamut color array
+цветоваямодель color model color circuit
+цветовой color
+цветоделение color separation
+цветфона foreground color background color
+целеваяфункция objective
+целеваяЭВМ object computer
+целевой target objective purposive
+целевойадрес destination
+целенаправленный purposeful goal-seeking
+целесообразный expedient
+целостность integrity
+целочисленныйтип integer type
+целый entire full whole
+целыйтип integer type
+цель purpose aim goal target
+центр centre center
+центрвращения center of rotation
+центрраспределенияданных data distribution centre
+центрстраницы center of page
+централизация centralization
+централизованный centralized
+централизовать centralize
+центральная ЭВМ mainframe
+центральный central
+центральныймодуль central module
+центральныйпроцессор host
+центрирование center alignment
+центрировать center
+центрифугирование spinning
+центровка center of page
+центроник centronic
+цепной chain
+цепочка chain
+цепочкавыводов inference chain
+цепочкакоманд chain command
+цепочкафайлов file chain
+цепочкацифровыхблоков cipher block chaining
+цепь circuit
+цикл cycle iteration period
+циклвыборкиадреса address fetch cycle
+циклический circular cycle
+цикличный circular
+цилиндрический cylindrical
+циркулировать circulate
+циркуляция circulation
+цитата quotation quote
+цитирование quotation quoting
+цитировать quote
+циферблат dial
+цифра digit
+цифрователь digitizer
+цифроваяинформация digital information
+цифроваякамера digital camera
+цифроваяклавиатура numeric keyboard
+цифроваяобратнаясвязь cipher feedback
+цифроваяподпись digital signature
+цифровой digital numerical numeral
+цифровыевидеоданные digital video
+вцифровойформе digitally
+цифровойблок digital block
+цифровойввод digital input
+цифровойвидеодиск digital video disk
+цифровойдисплей digital display
+цифровойдоступ digital access
+цифровойключшифра numerical key
+цифровойкод cipher alphabet ciphered code digital code numeric code
+цифровойконтроль digital control
+цифровойпланшет digital tablet
+цифровойпроцессорсигналов digital signal processor
+цифровойрешающийприбор digital resolver
+цифровойсигнал digital signal
+цифровойсигнальныйпроцессор digital signal processor
+цифровойтабулятор digital tabulator
+цифровойфотоаппарат digital camera
+цифровойэлемент digital element
+цицеро pica
+чайник dummy newbie
+частично partly
+частичный fractional partial
+частное quotient
+частность detail
+частный in-home in-house private particulate
+часто frequently
+частоепосещение frequentation
+частота frequency
+частотность frequency
+частотный frequent
+частотныйинтервал frequency domain
+частотныйсловарь frequency word list
+частый frequent
+частыйпосетитель frequenter
+часть part detail dividend
+чат chat
+чередование interplace alternation
+чередовать alternate
+чередующийся alternate
+через through
+чернила ink
+черноваяпечать draft mode
+черновик draft rough copy
+черновой draft rough draft-quality
+черный black
+черта line feature
+чертеж draft drawing
+чертежник draftsman
+чертежный drafting drawing
+чертить draw trace
+чертящий drafting drawing
+черчение drawing
+четверной quadrantal
+четверичный quaternary
+четверть quarter
+четкий clear distict
+четкость definition detail
+четность parity
+четный even
+четырехгранник tetrahedron
+четырехгранный tetrahedral
+четырехкратный quadruple
+четырехугольник tetragon quadrangle
+четырехугольный tetragonal quadrangular
+чип chip
+чипконтроллерашины bus controller chip
+численный numeric
+число number figure numeric
+числовоеуправление numerical control
+числовой numeric numerical
+числовойпараметр numeric parameter
+числоцелоготипа integer type number
+чистить clean purge
+чистка cleaning clean-up
+чисткадиска disk cleanup
+чисткапамяти memory cleaning garbage collection
+чистаязагрузка clean boot
+чистый blank clear clean
+читальныйаппарат reader microform reader
+читающий reading
+член member
+чрезвычайно extremely
+чрезвычайный extraordinary exceptional
+чрезмерность extreme
+чрезмерный excessive
+чтение read reading
+чувствительность sensitivity
+чувствительный sensitive
+чужой foreign
+шаблон boilerplate template wildcard
+шаблонименифайла file name picture
+шаблоннаястраница master page
+шаблонный cut-and-dried master
+шаблонпользователя custom wildcard
+шаг step iteration pitch 
+шагнумерации count by
+шагподачи feed pitch
+шагприращения scale of increments
+шагточки dot pitch
+шапка headline page header
+шарик ball
+шаровойманипулятор track ball trackball
+шести- six hexa-
+шестигранник hexahedron
+шестикратный sixfold
+шестиугольник hexagon
+шестиугольный hexagonal
+шестнадцатиричнаяцифра hexadecimal digit
+шестнадцатиричнаясистемасчисления hexadecimal notation hexadecimal number system
+шестнадцатиричный hexadecimal sexadecimal
+шестнадцатиричныйформат hexadecimal format
+шина bus
+шинаадреса address bus
+шинаданных data bus
+шинаинтерфейсаобщегоназначения general-purpose interface bus
+шинарасширения expansion bus
+шинауправления control bus
+шиннаяархитектура bus architecture
+шиннаяструктура bus-organized structure
+шиннаятопология bus architecture
+шинный bus
+шинныйформирователь bus driver
+ширина width
+широкий broad wide expanded
+широковещание broadcasting
+широковещательный broadcasting
+широкополосный broad-band wide-band
+шифр cipher cypher code crypto
+шифратор encoder encryptor encipherer scrambler
+шифровальныйкод secret code
+шифрование encryption enciphering encoding
+шифрованноесообщение cipher message ciphered message cryptogram
+шифрованный cipher ciphered coded in code
+шифрованныйкод ciphered code
+шифрованныйтекст cipher text ciphertext
+шифровать cipher encipher encrypt encode
+шифровка encryption coded communication enciphering
+шифрующаяфайловаясистема encrypting file system
+шифрующееустройство encryptor
+шифрующий encoding
+шкала scale dial
+шкалавысоты scale height
+шкалаплотности densitometer scale
+шлифовать grind
+шлюз gate gateway gateway computer filter
+шлюзовый gateway
+шлюзовыйсервер gateway server
+шнур cord cable
+шпион spy
+шпионскаяпрограмма spyware
+шпионский spy
+шрифт font type
+шрифтовой font
+штекер jackplug
+штепсель plug socket
+штрих line art
+штрихпунктирнаялиния dash-and-dot line dashdot
+штрихованный shaded touchy
+штриховать shade
+штриховаяграфика line art
+штриховка shading hatching
+штриховой dashed
+штурман navigator
+штырек jackplug
+шум noise
+щелканье snap
+щелчок flip snap
+ЭВМбазыданных database computer
+эвольвента evolvent involute
+эвристический heuristic
+эдгар jedgar
+эквалайзер equalizer
+эквивалент equivalent counterpart
+эквивалентный equivalent
+экземпляр instance copy
+экран screen display face
+экранирование shielding
+экранированный shielded
+экранныйредактор full-screen editor screen editor
+экранныйшрифт screen font
+экранныйэлемент screen element
+эксклюзивный exclusive
+эксклюзивныйрежим exclusive mode
+экспериментальный experimental
+экспериментный experimental
+эксперт expert wizard
+экспертиза examination
+эксплуатация exploitation exploiting operation running abuse
+эксплуатировать exploit maintain
+экспонентноепредставление E-notation exponential notation
+экспонентный exponential
+экспоненциальныйформат scientific notation
+экспонирование exposure
+экспорт export
+экспортирование export
+экспортировать export
+экспортный export
+экстент extent
+экстра- extra-
+экстракодовый extracode
+экстраполировать extrapolate
+экстремальный extremal
+экстремум extremum extreme
+экструзия extrude
+электрический electric
+электричество electricity
+электро- electro- electric electrical
+электролитическийдисплей electrolytic display
+электролюминесцентный electroluminescent
+электролюминесцентныйдисплей electroluminescent display
+электролюминесцентныйдисплейпеременноготока alternating current electroluminescent display
+электромагнитнаяпамять electromagnetic storage
+электромагнитный electromagnetic
+электрон electron
+электроника electronics
+электронный electronic electron
+электронныйдиск electronic disk virtual disk RAM disk
+электронныймикроскоп electron microscope
+электронныймозг brain thinking machine
+электронныйнабор electronic typesetting
+электронныйобменинформацией electronic data interchange
+электронныйредактор word processor
+электронщик electronician hardware engineer
+электрооборудование electrical equipment
+электропитание power
+электроприбор electrical appliance
+электропровод electric cable
+электропроводка electric wiring
+электросеть electrical transmission network
+электростатический electrostatic
+электротехник electrical engeneer electrician
+электротехника electrical engeneering
+электротехнический electrical electrotechnical
+электроэнергия electrical energy
+элемент element
+элементвыборки sample unit
+элементданных item datum
+элементмассива array cell array component array element
+элементсоединения connection element
+элементуправления control
+элементфиксатораадреса address latch element
+элементарный elementary simple
+элементнаябаза integrated circuit
+элементный element
+элементысопряжения blends
+эллипс ellipse
+эллиптический elliptic
+эм em
+эмблема logo logotype
+эмулятор emulator
+эмуляция emulation
+эн en
+энергетический power
+энергичный eager
+энергия energy
+энергозависимый volatile
+эпизодический random
+эпимикрокарта micro-opaque
+эпоха epoch
+эскиз design
+эскизный draft
+эталон standard
+эталонный benchmarking standard
+эталонныйтест benchmark benchmarking test
+этап stage step
+этикетка tag label
+эффект effect
+эффективно effectually
+эффективность efficiency effectiveness effectuality productiveness productivity
+эффективный effective effectual efficient
+эффективныйадрес effective address
+эффектосвещения lighting effect
+эхо echo echoing
+эхоконтроль echoing
+эхоплекс echoplex
+явление phenomenon
+явный obvious
+ядро kernel
+ядро СУБД database engine
+язык language
+идентификаторязыка language identifier
+языкассемблера assembly language
+языкбазыданных data base language
+языквысокогоуровня high-level language
+языкзапросов query language
+языкмоделированиявиртуальнойреальности Virtual Reality Modelling Language
+языкописанияинтерфейсов interface definition language
+языкописаниястраниц page description language
+языкпрограммирования programming language
+языкпрограммированиявысокогоуровня high-level programming language
+языкпрограммированиясценариев scripting language
+языкразметки markup language
+языкуправленияпечатью printer control language
+языковой language linguistic
+язычковыйдепрессордлядисковода disk drive tongue depressor
+якорь anchor
+яркий vivid
+яркость brightness luminosity luminance brilliance intensity
+ярлык label tag
+ясно clarly clear distinctly
+ясность clarness clarity lucidity
+ясный clear lucid distinct evident plain
+ячеистаясвязь mesh network
+ячеистаясеть mesh network
+ячейка cell mesh
+ячейкаданных data cell
+ячейказагрузки load cell
